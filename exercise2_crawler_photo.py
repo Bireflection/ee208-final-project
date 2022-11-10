@@ -8,6 +8,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup
 
@@ -91,6 +92,8 @@ def get_all_links(content, page):
         if full.match(i) == None:
             i = urllib.parse.urljoin(page, i)
         links.append(i)
+    # for i in range(1000):
+    #     links.append(page[:-2]+"{}".format(i))
     return links
 
 
