@@ -1,16 +1,16 @@
 # SJTU EE208
 import os
+import queue
 import re
 import string
+import threading
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
-import threading
-import time
-import queue
-from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
+from bs4 import BeautifulSoup
 
 
 def valid_filename(s):
