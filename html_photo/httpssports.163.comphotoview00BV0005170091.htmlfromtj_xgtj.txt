@@ -1,0 +1,409 @@
+欧冠：曼联3-2亚特兰大_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+欧冠：曼联3-2亚特兰大
+2021-10-21 16:08
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+C罗
+曼联
+北京时间10月21日（周四）凌晨03点00分，2021-22赛季欧冠小组赛F组进行了第3轮的一场焦点战，曼联在老特拉福德球场迎战亚特兰大。曼联0-2落后3-2逆转取胜，上半场亚特兰大由帕萨利奇和德米拉尔进球2-0领先，下半场拉什福德、马奎尔破门扳平，C罗连续2轮小组赛打进制胜球！本场后，小组中曼联6分第1，比利亚雷亚尔和亚特兰大都是4分，年轻人3分。
+欧冠：曼联3-2亚特兰大
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+欧冠决赛-皇马1-0利物浦
+欧冠半决赛：皇马3-1曼城
+欧冠半决赛:比利亚雷尔2-3…
+欧冠：马竞0-0曼城
+阿尔沙文担任嘉宾 欧冠抽签闹…
+欧冠-拜仁3-0巴萨
+欧冠：巴黎4-1布鲁日
+欧冠-曼城2-1巴黎
+欧冠-曼联2-0比利亚雷亚尔
+欧冠：巴黎2-2莱比锡红牛
+欧冠：曼联2-2亚特兰大
+刘翔110米栏仅获铜牌
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+欧冠：曼联2-2亚特兰大
+{
+            "info": {
+                "setname": "欧冠：曼联3-2亚特兰大",
+                "imgsum_bk": 21,
+                "imgsum": 21,
+                "lmodify": "2021-10-21 16:08:29",
+                "prevue": "北京时间10月21日（周四）凌晨03点00分，2021-22赛季欧冠小组赛F组进行了第3轮的一场焦点战，曼联在老特拉福德球场迎战亚特兰大。曼联0-2落后3-2逆转取胜，上半场亚特兰大由帕萨利奇和德米拉尔进球2-0领先，下半场拉什福德、马奎尔破门扳平，C罗连续2轮小组赛打进制胜球！本场后，小组中曼联6分第1，比利亚雷亚尔和亚特兰大都是4分，年轻人3分。",
+                "channelid": "",
+                "reporter": "",
+                "source": "视觉中国",
+                "dutyeditor": "刘頔_NS4812",
+                "prev": {
+                    "setname": "欧冠：曼联2-2亚特兰大",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-03/GNS5MVNQ00BV0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00BV0005/170147.html"
+                },
+                "next": {
+                    "setname": "欧冠：曼联2-2亚特兰大",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-03/GNS5MVNQ00BV0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00BV0005/170147.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "GMQLMDQ500BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ500BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ500BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ500BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ500BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "C罗霸气庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ300BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ300BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ300BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ300BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ300BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "C罗庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQA00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQA00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQA00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQA00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQA00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "C罗庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQG00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQG00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQG00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQG00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQG00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "C罗连续2轮欧冠绝杀",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQD00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQD00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQD00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQD00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQD00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "C罗霸气滑跪",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQF00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQF00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQF00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQF00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQF00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "曼联庆祝3-2反超",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ100BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ100BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ100BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ100BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ100BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "老特拉福德现场7万球迷又一次见证了C罗的绝杀",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ400BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ400BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ400BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ400BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ400BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "曼联收获了宝贵的3分",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ600BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ600BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ600BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ600BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ600BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "C罗完成个人曼联生涯第300战",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ700BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ700BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ700BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ700BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ700BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "索帅赛后高举双拳庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ800BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ800BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ800BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ800BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ800BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "本场未出战的林加德赛后与队友庆祝胜利",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ200BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ200BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ200BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ200BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ200BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "马奎尔庆祝扳平",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQB00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQB00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQB00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQB00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQB00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "曼联队长马奎尔为球队扳2-2平",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDPV00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPV00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPV00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPV00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPV00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "拉什福德破门瞬间",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDPU00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPU00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPU00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPU00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPU00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "拉什福德拉响了曼联反击的号角",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQE00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQE00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQE00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQE00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQE00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "B费主罚角球",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQC00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQC00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQC00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQC00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQC00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "曼联主帅索尔斯克亚",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDPT00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPT00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPT00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPT00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPT00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "帕萨利奇先声夺人",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDPS00BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPS00BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPS00BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPS00BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDPS00BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "德米拉尔一度帮助亚特兰大将领先优势扩大为2球",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ000BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ000BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ000BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ000BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ000BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "德米拉尔防守C罗",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GMQLMDQ900BV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ900BV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ900BV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ900BV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-10-21/GMQLMDQ900BV0005NOS.jpg",
+                   "osize": {},
+                   "title": "卡瓦尼",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

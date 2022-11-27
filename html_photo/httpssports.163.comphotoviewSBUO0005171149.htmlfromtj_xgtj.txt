@@ -1,0 +1,330 @@
+世预赛：阿根廷3-1委内瑞拉_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+世预赛：阿根廷3-1委内瑞拉
+2022-10-09 20:12
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+梅西
+北京时间9月3日上午8点，2022年世界杯南美区预选赛第9轮迎来一场重头戏。阿根廷客场3-1击败委内瑞拉队，7轮不败积15分继续排名第二。劳塔罗传射建功，华金-科雷亚和安赫尔-科雷亚各进一球，阿德里安-马丁内斯对梅西恶意犯规被直接红牌罚下。委内瑞拉终场补时阶段打进点球。
+世预赛：阿根廷3-1委内瑞拉
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+世界杯C组：阿根廷2-0墨西哥
+2022卡塔尔世界杯C组首轮…
+梅西出席发布会 亲承这是最后…
+梅西与阿根廷队合练 心情大好…
+阿根廷卡塔尔训练 梅西单独训练
+阿根廷官方写真:梅西领衔 迪…
+梅西领衔阿根廷备战 大批球迷…
+阿根廷国家队抵达卡塔尔
+世预赛-阿根廷3-0玻利维亚
+世预赛：阿根廷1-0乌拉圭
+欧美杯：阿根廷3-0意大利夺冠
+刘翔110米栏仅获铜牌
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+阿根廷国家队抵达卡塔尔
+{
+            "info": {
+                "setname": "世预赛：阿根廷3-1委内瑞拉",
+                "imgsum_bk": 15,
+                "imgsum": 15,
+                "lmodify": "2022-10-09 20:12:45",
+                "prevue": "北京时间9月3日上午8点，2022年世界杯南美区预选赛第9轮迎来一场重头戏。阿根廷客场3-1击败委内瑞拉队，7轮不败积15分继续排名第二。劳塔罗传射建功，华金-科雷亚和安赫尔-科雷亚各进一球，阿德里安-马丁内斯对梅西恶意犯规被直接红牌罚下。委内瑞拉终场补时阶段打进点球。",
+                "channelid": "",
+                "reporter": "",
+                "source": "视觉中国",
+                "dutyeditor": "白武浩_NS2189",
+                "prev": {
+                    "setname": "阿根廷国家队抵达卡塔尔",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-17/HMC9P33CSBUO0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/SBUO0005/171227.html"
+                },
+                "next": {
+                    "setname": "阿根廷国家队抵达卡塔尔",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-17/HMC9P33CSBUO0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/SBUO0005/171227.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "GIVBPC3Q00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3Q00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3Q00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3Q00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3Q00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "劳塔罗破门庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3N00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3N00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3N00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3N00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3N00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "劳塔罗庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVDI70A00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVDI70A00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVDI70A00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVDI70A00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVDI70A00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "梅西被侵犯后痛苦倒地",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3H00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3H00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3H00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3H00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3H00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "阿德里安-马丁内斯蹬踹梅西被红牌罚下",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3I00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3I00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3I00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3I00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3I00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "梅西遭恶意侵犯",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3T00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3T00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3T00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3T00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3T00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "劳塔罗本场传射成为最大功臣",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3U00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3U00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3U00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3U00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3U00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "委内瑞拉主场狂热球迷",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3J00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3J00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3J00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3J00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3J00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "现场狂热球迷",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3P00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3P00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3P00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3P00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3P00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "国米新援华金-科雷亚破门庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3S00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3S00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3S00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3S00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3S00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "安赫尔-科雷亚破门",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3O00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3O00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3O00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3O00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3O00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "阿根廷庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3M00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3M00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3M00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3M00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3M00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "阿根廷庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3K00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3K00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3K00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3K00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3K00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "梅西赛前热身",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3L00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3L00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3L00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3L00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3L00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "阿根廷首发11人",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GIVBPC3R00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3R00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3R00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3R00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-03/GIVBPC3R00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "委内瑞拉首发11人",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

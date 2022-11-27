@@ -1,0 +1,239 @@
+阿圭罗泪洒发布会 瓜帅到场_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+阿圭罗泪洒发布会 瓜帅到场
+2021-12-15 20:13
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+阿奎罗
+巴萨
+阿圭罗泪洒发布会 瓜帅到场
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+金球奖颁奖典礼 齐达内为本泽…
+加盟巴萨首训!莱万面带笑容 …
+欧冠14冠庆典 皇马嗨翻!马…
+提前4轮夺冠!皇马冠军游行 …
+西超杯：皇马加时3-2巴萨进决赛
+阿尔维斯赤脚亮相 重返诺坎普
+他回来了!哈维重返诺坎普执教
+西甲第11轮:巴萨0-1巴列卡诺
+西甲第10轮：巴萨1-2皇马
+西甲第8轮：马竞2-0巴萨
+6黄1红火药味十足 巴萨憾平…
+刘翔110米栏仅获铜牌
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+西超杯：皇马加时3-2巴萨进决赛
+{
+            "info": {
+                "setname": "阿圭罗泪洒发布会 瓜帅到场",
+                "imgsum_bk": 8,
+                "imgsum": 8,
+                "lmodify": "2021-12-15 20:13:25",
+                "prevue": " ",
+                "channelid": "",
+                "reporter": "网易综合",
+                "source": "网易体育",
+                "dutyeditor": "张泽农_NS5732",
+                "prev": {
+                    "setname": "西超杯：皇马加时3-2巴萨进决赛",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTJ00KGT00DE0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00DE0005/170431.html"
+                },
+                "next": {
+                    "setname": "西超杯：皇马加时3-2巴萨进决赛",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTJ00KGT00DE0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00DE0005/170431.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "GR9K759V00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759V00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759V00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759V00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759V00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "北京时间今晚19点，巴萨为阿圭罗举行了新闻发布会。在新闻发布会伊始，阿圭罗就忍不住落泪：“召开这次新闻发布会是为了告诉大家，我已经决定不再踢球。”",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR9K75A100DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K75A100DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K75A100DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K75A100DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K75A100DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "阿奎罗泪洒发布会",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR9K75A000DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K75A000DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K75A000DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K75A000DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K75A000DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "阿奎罗泪洒发布会",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR9K759Q00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759Q00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759Q00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759Q00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759Q00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "瓜帅哈维到场",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR9K759U00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759U00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759U00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759U00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759U00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "阿奎罗",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR9K759T00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759T00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759T00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759T00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759T00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "阿奎罗",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR9K759S00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759S00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759S00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759S00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759S00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "阿奎罗",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR9K759R00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759R00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759R00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759R00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-15/GR9K759R00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "阿奎罗",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

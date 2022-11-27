@@ -1,0 +1,746 @@
+世界杯C组：波兰2-0沙特_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+世界杯C组：波兰2-0沙特
+2022-11-27 11:28
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+波兰
+沙特
+世界杯C组：波兰2-0沙特
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+2022卡塔尔世界杯E组：日…
+2022卡塔尔世界杯D组：突…
+世界杯A组：荷兰1-1厄瓜多尔
+世界杯A组：卡塔尔1-3塞内加尔
+2022卡塔尔世界杯B组次轮…
+2022卡塔尔世界杯G组首轮…
+世界杯E组：西班牙7-0哥斯…
+世界杯F组：摩洛哥0-0克罗地亚
+东欧还是拉美？墨西哥波兰女球…
+世界杯C组:墨西哥0-0波兰
+世界杯D组:丹麦0-0突尼斯
+刘翔110米栏仅获铜牌
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+2022卡塔尔世界杯E组：日…
+{
+            "info": {
+                "setname": "世界杯C组：波兰2-0沙特",
+                "imgsum_bk": 47,
+                "imgsum": 47,
+                "lmodify": "2022-11-27 11:28:13",
+                "prevue": " ",
+                "channelid": "",
+                "reporter": "网易综合",
+                "source": "网易体育",
+                "dutyeditor": "张泽农_NS5732",
+                "prev": {
+                    "setname": "2022卡塔尔世界杯E组：日本0-1哥斯达黎加",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN72PGU7SBUM0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/SBUM0005/171292.html"
+                },
+                "next": {
+                    "setname": "2022卡塔尔世界杯E组：日本0-1哥斯达黎加",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN72PGU7SBUM0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/SBUM0005/171292.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "HN4RGIB7SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB7SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB7SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB7SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB7SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIB9SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB9SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB9SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB9SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB9SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBISBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBISBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBISBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBISBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBISBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIB4SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB4SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB4SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB4SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB4SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIB5SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB5SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB5SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB5SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB5SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIB8SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB8SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB8SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB8SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB8SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBGSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBGSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBGSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBGSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBGSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIB6SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB6SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB6SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB6SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB6SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBESBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBESBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBESBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBESBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBESBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBASBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBASBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBASBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBASBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBASBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBJSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBJSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBJSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBJSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBJSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBBSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBBSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBBSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBBSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBBSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIB3SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB3SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB3SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB3SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB3SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBKSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBKSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBKSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBKSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBKSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIB1SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB1SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB1SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB1SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB1SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIB2SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB2SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB2SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB2SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIB2SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBCSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBCSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBCSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBCSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBCSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBHSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBHSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBHSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBHSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBHSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBFSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBFSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBFSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBFSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBFSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBLSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBLSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBLSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBLSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBLSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBQSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBQSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBQSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBQSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBQSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBRSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBRSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBRSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBRSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBRSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBNSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBNSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBNSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBNSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBNSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBMSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBMSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBMSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBMSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBMSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN66BIPOSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPOSBUM0005NOS.png",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPOSBUM0005NOS.png",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPOSBUM0005NOS.png",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPOSBUM0005NOS.png",
+                   "osize": {},
+                   "title": "",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN66BIPSSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPSSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPSSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPSSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPSSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBPSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBPSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBPSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBPSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBPSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBOSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBOSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBOSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBOSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBOSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4NC04TSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04TSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04TSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04TSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04TSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4NC04VSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04VSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04VSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04VSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04VSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4NC04USBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04USBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04USBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04USBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04USBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN66BIPPSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPPSBUM0005NOS.png",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPPSBUM0005NOS.png",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPPSBUM0005NOS.png",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPPSBUM0005NOS.png",
+                   "osize": {},
+                   "title": "",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN66BIPQSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPQSBUM0005NOS.png",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPQSBUM0005NOS.png",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPQSBUM0005NOS.png",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPQSBUM0005NOS.png",
+                   "osize": {},
+                   "title": "",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN66BIPTSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPTSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPTSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPTSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPTSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN66BIPRSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPRSBUM0005NOS.png",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPRSBUM0005NOS.png",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPRSBUM0005NOS.png",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-27/HN66BIPRSBUM0005NOS.png",
+                   "osize": {},
+                   "title": "",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4NC04SSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04SSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04SSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04SSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04SSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4RGIBDSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBDSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBDSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBDSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4RGIBDSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4NC04RSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04RSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04RSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04RSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04RSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4NC04QSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04QSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04QSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04QSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC04QSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4MBTK3SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK3SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK3SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK3SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK3SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4MBTK2SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK2SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK2SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK2SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK2SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4MBTK1SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK1SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK1SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK1SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK1SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4MBTK0SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK0SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK0SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK0SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK0SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4MBTK4SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK4SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK4SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK4SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTK4SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4NC050SBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC050SBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC050SBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC050SBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4NC050SBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4MBTJVSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTJVSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTJVSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTJVSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTJVSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HN4MBTJUSBUM0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTJUSBUM0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTJUSBUM0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTJUSBUM0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-26/HN4MBTJUSBUM0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "11月26日21点，2022第22届卡塔尔世界杯C组第2轮波兰与沙特的比赛，在卡塔尔赖扬的教育城球场进行。最终，波兰2-0获胜。第39分钟，莱万多夫斯基助攻泽林斯基首开纪录；半场补时第1分钟，全场比赛表现出色的什琴斯尼扑出达瓦萨里的点球；第63、66分钟，米利克、莱万多夫斯基先后击中立柱；第82分钟，莱万多夫斯基从马尔基脚下断球后锁定胜局。此役战罢，波兰2战4分，沙特2战3分，墨西哥1战1分，阿根廷1战0分。12月1日3点，波兰对阵阿根廷，沙特对阵墨西哥。",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

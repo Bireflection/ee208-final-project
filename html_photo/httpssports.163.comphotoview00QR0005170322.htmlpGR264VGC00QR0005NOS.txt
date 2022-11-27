@@ -1,0 +1,303 @@
+大逆转！F1阿布扎比站维斯塔潘绝杀夺冠_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+大逆转！F1阿布扎比站维斯塔潘绝杀夺冠
+2021-12-12 23:16
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+赛车
+大逆转！F1阿布扎比站维斯塔潘绝杀夺冠
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+视觉盛宴!F1拉斯维加斯大奖…
+维斯塔潘夺赛季第13冠 红牛…
+时尚达人!周冠宇拍摄公路大片…
+法拉利双星闪耀 勒克莱尔携手…
+F1布达佩斯站二练 周冠宇第…
+F1匈牙利站车手踩场 周冠宇…
+F1法国大奖赛 周冠宇再度退…
+英国大奖赛惊魂一刻 周冠宇遭…
+F1英国大奖赛开幕 周冠宇满…
+再创历史! F1加拿大站周冠…
+F1阿塞拜疆大奖赛 车手踩场…
+F1摩纳哥大奖赛周冠宇亮相 …
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+国际汽联颁奖典礼 维斯塔潘领…
+{
+            "info": {
+                "setname": "大逆转！F1阿布扎比站维斯塔潘绝杀夺冠",
+                "imgsum_bk": 13,
+                "imgsum": 13,
+                "lmodify": "2021-12-12 23:16:17",
+                "prevue": " ",
+                "channelid": "",
+                "reporter": "",
+                "source": "视觉中国",
+                "dutyeditor": "吴欣_NBJS17020",
+                "prev": {
+                    "setname": "国际汽联颁奖典礼 维斯塔潘领取总冠军奖杯",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-17/GRDJPREB00QR0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00QR0005/170339.html"
+                },
+                "next": {
+                    "setname": "国际汽联颁奖典礼 维斯塔潘领取总冠军奖杯",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-17/GRDJPREB00QR0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00QR0005/170339.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "GR27G7GQ00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27G7GQ00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27G7GQ00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27G7GQ00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27G7GQ00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR27FBOT00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOT00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOT00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOT00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOT00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR27FBOS00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOS00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOS00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOS00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOS00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR27FBOU00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOU00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOU00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOU00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOU00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR27FBOQ00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOQ00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOQ00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOQ00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOQ00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR264VGC00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR264VGC00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR264VGC00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR264VGC00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR264VGC00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR24E2KF00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KF00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KF00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KF00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KF00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR24E2KG00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KG00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KG00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KG00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KG00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR24E2KE00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KE00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KE00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KE00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KE00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR24E2KJ00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KJ00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KJ00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KJ00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KJ00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR24E2KI00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KI00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KI00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KI00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KI00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR24E2KH00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KH00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KH00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KH00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR24E2KH00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GR27FBOR00QR0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOR00QR0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOR00QR0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOR00QR0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-12-12/GR27FBOR00QR0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "F1收官大战在阿布扎比亚斯码头赛道上演，最终维斯塔潘利用安全车换上软胎，在最后阶段超越汉密尔顿，终结汉密尔顿八冠美梦，拿下职业生涯首个F1车手总冠军！",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

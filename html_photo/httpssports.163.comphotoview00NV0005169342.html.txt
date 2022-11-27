@@ -1,0 +1,252 @@
+F1法国大奖赛正赛 维斯塔潘夺得冠军_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+F1法国大奖赛正赛 维斯塔潘夺得冠军
+2021-06-21 15:03
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+F1
+赛车
+F1法国大奖赛正赛 维斯塔潘夺得冠军
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+中国花游夺世锦赛第四金 水下…
+张伟丽KO乔安娜 空翻庆祝赢…
+世锦赛奥沙利文斩获7冠 表情…
+冬残奥会轮椅冰壶决赛中国战胜…
+北京冬奥中国女子冰壶队 00…
+太高大上!冬奥智慧餐厅智能餐…
+王者霸气！贝雷蒂尼鏖战五局淘…
+2-0轻取！巴蒂新赛季9连胜…
+纳达尔3-2险胜沙波瓦洛夫挺…
+澳网梅德韦杰夫3-1击败克雷…
+恭喜！许昕/刘诗雯夺WTT澳…
+WTT澳门冠军赛 马龙1-3…
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+温网女单焦点战 斯蒂文斯2:…
+{
+            "info": {
+                "setname": "F1法国大奖赛正赛 维斯塔潘夺得冠军",
+                "imgsum_bk": 9,
+                "imgsum": 9,
+                "lmodify": "2021-06-21 15:03:02",
+                "prevue": " ",
+                "channelid": "",
+                "reporter": "",
+                "source": "视觉中国",
+                "dutyeditor": "辛然_NBJS15512",
+                "prev": {
+                    "setname": "温网女单焦点战 斯蒂文斯2:0力克科维托娃",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-29/GDL59SJ100NV0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00NV0005/169376.html"
+                },
+                "next": {
+                    "setname": "温网女单焦点战 斯蒂文斯2:0力克科维托娃",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-29/GDL59SJ100NV0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00NV0005/169376.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "GD1ADMNI00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNI00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNI00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNI00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNI00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GD1ADMNK00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNK00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNK00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNK00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNK00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GD1ADMNJ00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNJ00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNJ00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNJ00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNJ00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GD1ADMNF00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNF00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNF00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNF00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNF00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GD1ADMNM00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNM00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNM00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNM00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNM00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GD1ADMNG00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNG00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNG00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNG00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNG00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GD1ADMNH00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNH00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNH00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNH00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNH00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GD1ADMNN00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNN00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNN00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNN00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNN00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GD1ADMNL00NV0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNL00NV0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNL00NV0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNL00NV0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-06-21/GD1ADMNL00NV0005NOS.jpg",
+                   "osize": {},
+                   "title": "",
+                   "note": "2021赛季F1锦标赛本周末来到法国，在保罗-里卡德赛道展开赛季第7站的争夺，杆位发车的维斯塔潘在发车时出现失误的情况下，凭借两次进站的策略，在倒数第2圈超过汉密尔顿，拿下了法国大奖赛冠军。",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

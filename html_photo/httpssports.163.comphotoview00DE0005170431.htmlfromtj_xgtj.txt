@@ -1,0 +1,332 @@
+西超杯：皇马加时3-2巴萨进决赛_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+西超杯：皇马加时3-2巴萨进决赛
+2022-01-13 08:28
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+本泽马
+皇马
+巴萨
+北京时间1月13日，西班牙超级杯半决赛在沙特利雅德举行，皇马通过加时赛3-2战胜巴萨，成功晋级决赛。第25分钟维尼修斯进球，第41分钟卢克-德容扳平比分，第72分钟本泽马进球，第83分钟法蒂头球破门，90分钟常规赛两队战成2-2平。加时赛第98分钟，巴尔韦德打进制胜球。
+西超杯：皇马加时3-2巴萨进决赛
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+金球奖颁奖典礼 齐达内为本泽…
+加盟巴萨首训!莱万面带笑容 …
+欧冠14冠庆典 皇马嗨翻!马…
+提前4轮夺冠!皇马冠军游行 …
+阿圭罗泪洒发布会 瓜帅到场
+阿尔维斯赤脚亮相 重返诺坎普
+他回来了!哈维重返诺坎普执教
+西甲第11轮:巴萨0-1巴列卡诺
+西甲第10轮：巴萨1-2皇马
+西甲第8轮：马竞2-0巴萨
+6黄1红火药味十足 巴萨憾平…
+刘翔110米栏仅获铜牌
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+提前4轮夺冠!皇马冠军游行 …
+{
+            "info": {
+                "setname": "西超杯：皇马加时3-2巴萨进决赛",
+                "imgsum_bk": 15,
+                "imgsum": 15,
+                "lmodify": "2022-01-13 08:28:20",
+                "prevue": "北京时间1月13日，西班牙超级杯半决赛在沙特利雅德举行，皇马通过加时赛3-2战胜巴萨，成功晋级决赛。第25分钟维尼修斯进球，第41分钟卢克-德容扳平比分，第72分钟本泽马进球，第83分钟法蒂头球破门，90分钟常规赛两队战成2-2平。加时赛第98分钟，巴尔韦德打进制胜球。",
+                "channelid": "",
+                "reporter": "",
+                "source": "东方ic",
+                "dutyeditor": "刘頔_NS4812",
+                "prev": {
+                    "setname": "提前4轮夺冠!皇马冠军游行 马德里全城沸腾",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-05-01/H698KTMA00DE0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00DE0005/171026.html"
+                },
+                "next": {
+                    "setname": "提前4轮夺冠!皇马冠军游行 马德里全城沸腾",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-05-01/H698KTMA00DE0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00DE0005/171026.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "GTIVG9Q500DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q500DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q500DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q500DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q500DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴尔韦德绝杀",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTJ00KGT00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTJ00KGT00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTJ00KGT00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTJ00KGT00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTJ00KGT00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "皇马取得国家德比的第100场胜利",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q800DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q800DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q800DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q800DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q800DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴尔韦德脱衣庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q600DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q600DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q600DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q600DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q600DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴尔韦德的上个进球已经是2020年10月份的事了",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q700DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q700DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q700DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q700DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q700DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴尔韦德西超杯又添名场面",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q900DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q900DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q900DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q900DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q900DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "安切洛蒂又一次赢下国家德比",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q400DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q400DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q400DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q400DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q400DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴萨主帅哈维首场国家德比",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q100DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q100DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q100DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q100DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q100DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "传射建功的本泽马当选本场最佳球员",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q300DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q300DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q300DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q300DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q300DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "法蒂将比分扳为2-2",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVU21N00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVU21N00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVU21N00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVU21N00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVU21N00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "维尼修斯又一次为皇马拔得头筹",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVU21M00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVU21M00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVU21M00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVU21M00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVU21M00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "吕克-德容扳平庆祝",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9PV00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9PV00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9PV00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9PV00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9PV00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "登贝莱突破",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q200DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q200DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q200DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q200DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q200DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "38岁251天的阿尔维斯再次出现了国家德比赛场，他也成了国家德比中出场年纪最大的球员",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9Q000DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q000DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q000DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q000DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9Q000DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴萨首发11人",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GTIVG9PU00DE0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9PU00DE0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9PU00DE0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9PU00DE0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-01-13/GTIVG9PU00DE0005NOS.jpg",
+                   "osize": {},
+                   "title": "皇马首发11人",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

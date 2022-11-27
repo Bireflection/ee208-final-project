@@ -1,0 +1,445 @@
+荷兰世青赛：巴西夺得季军_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+荷兰世青赛：巴西夺得季军
+2005-07-03 17:20
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+荷兰世青赛：巴西夺得季军
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+第二场“党代表通道”采访活动
+党的二十大闭幕会在京举行
+二十大新闻中心举行第五场记者…
+二十大新闻中心举行记者招待会
+党的二十大新闻中心举行第五场…
+二十大新闻中心举行记者招待会
+党的二十大新闻中心举行第四场…
+党的二十大新闻中心举行第三场…
+二十大新闻中心举行第三场集体采访
+党的二十大新闻中心举行第三场…
+二十大新闻中心举行第二场集体采访
+二十大新闻中心举行第一场集体采访
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+第二场“党代表通道”采访活动
+{
+            "info": {
+                "setname": "荷兰世青赛：巴西夺得季军",
+                "imgsum_bk": 24,
+                "imgsum": 24,
+                "lmodify": "2005-07-03 17:20:53",
+                "prevue": " ",
+                "channelid": "",
+                "reporter": " ",
+                "source": " ",
+                "dutyeditor": "",
+                "prev": {
+                    "setname": "第二场“党代表通道”采访活动",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0001/2022-10-22/HK9OK5FG00AN0001NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00AN0001/2314098.html"
+                },
+                "next": {
+                    "setname": "第二场“党代表通道”采访活动",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0001/2022-10-22/HK9OK5FG00AN0001NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/00AN0001/2314098.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "1Q8UD9FB00CG0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD9FB00CG0005.jpg",
+                   "timg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD9FB00CG0005.jpg",
+                   "simg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD9FB00CG0005.jpg",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD9FB00CG0005.jpg",
+                   "osize": {},
+                   "title": "朱广沪难以满意",
+                   "note": "网易体育讯：北京时间8月3日19:20分，东亚男足四强赛中国队对日本队的比赛中，中国队在上半场2比0领先，但下半场被日本队连扳两球，最终这场比赛2比2战成平局。  \\n",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "1Q8UD9AB00CG0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD9AB00CG0005.jpg",
+                   "timg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD9AB00CG0005.jpg",
+                   "simg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD9AB00CG0005.jpg",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD9AB00CG0005.jpg",
+                   "osize": {},
+                   "title": "赵旭日射门",
+                   "note": "网易体育讯：北京时间8月3日19:20分，东亚男足四强赛中国队对日本队的比赛中，中国队在上半场2比0领先，但下半场被日本队连扳两球，最终这场比赛2比2战成平局。  \\n",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "1Q8UD94P00CG0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD94P00CG0005.jpg",
+                   "timg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD94P00CG0005.jpg",
+                   "simg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD94P00CG0005.jpg",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD94P00CG0005.jpg",
+                   "osize": {},
+                   "title": "朱广沪着急",
+                   "note": "网易体育讯：北京时间8月3日19:20分，东亚男足四强赛中国队对日本队的比赛中，中国队在上半场2比0领先，但下半场被日本队连扳两球，最终这场比赛2比2战成平局。  \\n",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "1Q8UD8QA00CG0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8QA00CG0005.jpg",
+                   "timg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8QA00CG0005.jpg",
+                   "simg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8QA00CG0005.jpg",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8QA00CG0005.jpg",
+                   "osize": {},
+                   "title": "日本人受伤了",
+                   "note": "网易体育讯：北京时间8月3日19:20分，东亚男足四强赛中国队对日本队的比赛中，中国队在上半场2比0领先，但下半场被日本队连扳两球，最终这场比赛2比2战成平局。  \\n",
+                   "newsurl": "http://sports.163.com/special/g/00051GAK/gjdztbd.html"
+                }
+            
+                ,
+                {
+                   "id": "1Q8UD8J800CG0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8J800CG0005.jpg",
+                   "timg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8J800CG0005.jpg",
+                   "simg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8J800CG0005.jpg",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8J800CG0005.jpg",
+                   "osize": {},
+                   "title": "李雷雷已尽力",
+                   "note": "网易体育讯：北京时间8月3日19:20分，东亚男足四强赛中国队对日本队的比赛中，中国队在上半场2比0领先，但下半场被日本队连扳两球，最终这场比赛2比2战成平局。  \\n",
+                   "newsurl": "http://sports.163.com/special/g/00051GAK/gjdztbd.html"
+                }
+            
+                ,
+                {
+                   "id": "1Q8UD8CC00CG0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8CC00CG0005.jpg",
+                   "timg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8CC00CG0005.jpg",
+                   "simg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8CC00CG0005.jpg",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD8CC00CG0005.jpg",
+                   "osize": {},
+                   "title": "中国队换人",
+                   "note": "网易体育讯：北京时间8月3日19:20分，东亚男足四强赛中国队对日本队的比赛中，中国队在上半场2比0领先，但下半场被日本队连扳两球，最终这场比赛2比2战成平局。  \\n",
+                   "newsurl": "http://sports.163.com/special/g/00051GAK/gjdztbd.html"
+                }
+            
+                ,
+                {
+                   "id": "1Q8UD86A00CG0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD86A00CG0005.jpg",
+                   "timg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD86A00CG0005.jpg",
+                   "simg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD86A00CG0005.jpg",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-08-03/1Q8UD86A00CG0005.jpg",
+                   "osize": {},
+                   "title": "赵旭日被犯规",
+                   "note": "网易体育讯：北京时间8月3日19:20分，东亚男足四强赛中国队对日本队的比赛中，中国队在上半场2比0领先，但下半场被日本队连扳两球，最终这场比赛2比2战成平局。  \\n",
+                   "newsurl": "http://sports.163.com/special/g/00051GAK/gjdztbd.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDI3F007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDI3F007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDI3F007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDI3F007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDI3F007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDI1B007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDI1B007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDI1B007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDI1B007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDI1B007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHV8007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHV8007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHV8007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHV8007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHV8007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHT1007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHT1007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHT1007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHT1007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHT1007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHQC007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHQC007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHQC007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHQC007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHQC007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHNT007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHNT007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHNT007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHNT007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHNT007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHLB007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHLB007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHLB007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHLB007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHLB007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHIS007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHIS007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHIS007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHIS007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHIS007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHGH007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHGH007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHGH007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHGH007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHGH007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHEA007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHEA007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHEA007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHEA007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHEA007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDHC4007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHC4007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHC4007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHC4007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDHC4007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDH9T007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH9T007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH9T007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH9T007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH9T007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDH7H007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH7H007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH7H007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH7H007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH7H007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDH50007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH50007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH50007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH50007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH50007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDH2N007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH2N007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH2N007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH2N007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH2N007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDH0A007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH0A007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH0A007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH0A007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDH0A007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+                ,
+                {
+                   "id": "1NNNDGTT007H0005",
+                   "img": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDGTT007H0005.JPG",
+                   "timg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDGTT007H0005.JPG",
+                   "simg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDGTT007H0005.JPG",
+                   "oimg": "http://cimg.163.com/photo/0005/2005-07-03/1NNNDGTT007H0005.JPG",
+                   "osize": {},
+                   "title": "世青赛：最后时刻大逆转 巴西扳倒摩洛哥夺季军",
+                   "note": "网易体育7月2日消息 北京时间今天晚上11点45分，荷兰世青赛争夺第三名的比赛打响，巴西队与摩洛哥队上演乌龙大战，巴西后卫桑托斯率先送出乌龙大礼，但摩洛哥门将布卡迪在最后时刻奉还乌龙球，补时阶段，埃德卡洛斯头球为巴西打入制胜球，最终巴西2-1逆转击败摩洛哥，获得了本届世青赛季军。",
+                   "newsurl": "http://sports.163.com/05/0703/00/1NMS060C00051C9U.html"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

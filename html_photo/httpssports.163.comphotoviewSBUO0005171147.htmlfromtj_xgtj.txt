@@ -1,0 +1,268 @@
+世预赛：阿根廷1-0乌拉圭_网易体育
+网易
+>
+网易体育
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+0
+世预赛：阿根廷1-0乌拉圭
+2022-10-09 20:12
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+国际足球
+世界杯
+世预赛
+梅西
+北京时间11月13日早上7点，2022年卡塔尔世界杯南美区预选赛第13轮迎来一场重头戏。在蒙得维的亚的百年纪念体育场，阿根廷客场1-0小胜乌拉圭。迪马利亚打进精彩弧线球，苏亚雷斯曾射中一次门柱，梅西伤愈复出下半场替补登场。
+世预赛：阿根廷1-0乌拉圭
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+世界杯C组：阿根廷2-0墨西哥
+2022卡塔尔世界杯C组首轮…
+梅西出席发布会 亲承这是最后…
+梅西与阿根廷队合练 心情大好…
+阿根廷卡塔尔训练 梅西单独训练
+阿根廷官方写真:梅西领衔 迪…
+梅西领衔阿根廷备战 大批球迷…
+阿根廷国家队抵达卡塔尔
+世预赛：阿根廷3-1委内瑞拉
+世预赛-阿根廷3-0玻利维亚
+欧美杯：阿根廷3-0意大利夺冠
+刘翔110米栏仅获铜牌
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+世预赛-阿根廷3-0玻利维亚
+{
+            "info": {
+                "setname": "世预赛：阿根廷1-0乌拉圭",
+                "imgsum_bk": 10,
+                "imgsum": 10,
+                "lmodify": "2022-10-09 20:12:35",
+                "prevue": "北京时间11月13日早上7点，2022年卡塔尔世界杯南美区预选赛第13轮迎来一场重头戏。在蒙得维的亚的百年纪念体育场，阿根廷客场1-0小胜乌拉圭。迪马利亚打进精彩弧线球，苏亚雷斯曾射中一次门柱，梅西伤愈复出下半场替补登场。",
+                "channelid": "",
+                "reporter": "",
+                "source": "视觉中国",
+                "dutyeditor": "白武浩_NS2189",
+                "prev": {
+                    "setname": "世预赛-阿根廷3-0玻利维亚",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-10/GJHBQS2E00C90005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/SBUO0005/171148.html"
+                },
+                "next": {
+                    "setname": "世预赛-阿根廷3-0玻利维亚",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-09-10/GJHBQS2E00C90005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/SBUO0005/171148.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "GOM3S8E600C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E600C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E600C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E600C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E600C90005NOS.jpg",
+                   "osize": {},
+                   "title": "阿根廷全队庆祝胜利",
+                   "note": "北京时间11月13日早上7点，2022年卡塔尔世界杯南美区预选赛第13轮迎来一场重头戏。在蒙得维的亚的百年纪念体育场，阿根廷客场1-0小胜乌拉圭。迪马利亚打进精彩弧线球，苏亚雷斯曾射中一次门柱，梅西伤愈复出下半场替补登场。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8E700C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E700C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E700C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E700C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E700C90005NOS.jpg",
+                   "osize": {},
+                   "title": "阿根廷全队庆祝胜利",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8DU00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8DU00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8DU00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8DU00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8DU00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "迪马利亚庆祝进球",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8E500C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E500C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E500C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E500C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E500C90005NOS.jpg",
+                   "osize": {},
+                   "title": "阿根廷门将大马丁屡献神扑",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8E400C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E400C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E400C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E400C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E400C90005NOS.jpg",
+                   "osize": {},
+                   "title": "梅西推射踢飞",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8E300C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E300C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E300C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E300C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E300C90005NOS.jpg",
+                   "osize": {},
+                   "title": "梅西登场",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8E200C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E200C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E200C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E200C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E200C90005NOS.jpg",
+                   "osize": {},
+                   "title": "梅西场边热身",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8E100C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E100C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E100C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E100C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E100C90005NOS.jpg",
+                   "osize": {},
+                   "title": "苏亚雷斯带球",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8E000C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E000C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E000C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E000C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8E000C90005NOS.jpg",
+                   "osize": {},
+                   "title": "梅西场边热身",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "GOM3S8DV00C90005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8DV00C90005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8DV00C90005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8DV00C90005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2021-11-13/GOM3S8DV00C90005NOS.jpg",
+                   "osize": {},
+                   "title": "梅西坐在替补席",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+更多推荐
+图集热榜
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报
+进入关怀模式

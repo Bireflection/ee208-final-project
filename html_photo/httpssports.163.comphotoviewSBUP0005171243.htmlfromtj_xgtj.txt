@@ -1,0 +1,347 @@
+内马尔领衔巴西队抵达卡塔尔 球迷疯狂欢迎_网易体育
+网易
+>
+体育频道
+>
+体育图集
+>
+查看图片
+为3.6亿人新闻阅读而生的网易新闻客户端
+找对象点这里
+新闻
+图片
+赛程
+数据
+球队直达
+法国
+阿根廷
+沉浸式追星
+再来一遍
+荐彩
+积分榜
+射手榜
+助攻榜
+A
+卡塔尔
+厄瓜多尔
+塞内加尔
+荷兰
+B
+英格兰
+伊朗
+美国
+威尔士
+C
+阿根廷
+沙特阿拉伯
+墨西哥
+波兰
+D
+法国
+丹麦
+突尼斯
+澳大利亚
+E
+西班牙
+德国
+日本
+哥斯达黎加
+F
+比利时
+加拿大
+摩洛哥
+克罗地亚
+G
+巴西
+塞尔维亚
+瑞士
+喀麦隆
+H
+葡萄牙
+加纳
+乌拉圭
+韩国
+0
+内马尔领衔巴西队抵达卡塔尔 球迷疯狂欢迎
+2022-11-20 12:00
+原图
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+新浪微博
+人人网
+QQ空间
+标签：
+国际足球
+世界杯
+卡塔尔世界杯
+内马尔
+巴西队
+北京时间11月20日凌晨，本届世界杯夺冠热门球队巴西队全员抵达卡塔尔。
+内马尔领衔巴西队抵达卡塔尔 球迷疯狂欢迎
+图集已浏览完毕
+重新浏览
+评论
+(
+0
+)
+分享：
+易信
+(
+0
+)
+LOFTER
+新浪微博
+人人网
+QQ空间
+推荐内容
+世界杯G组：巴西2-0塞尔维亚
+巴西队拍摄世界杯海报 内马尔…
+巴西队训练备战 内马尔认真专注
+巴西队训练备战世界杯 内马尔…
+巴西队集结备战 安东尼与球迷合影
+巴西玛瑙斯市打造世界杯32强…
+世预赛：巴西5-0玻利维亚
+刘翔110米栏仅获铜牌
+黄金联赛巴黎站
+小贝纹身特写图片欣赏
+贝克汉姆纹身欣赏
+2005温网女单决赛
+推荐视频
+卡塔尔究竟有多壕？豪掷2200亿…
+每天工作三小时年薪一百万？世界杯…
+上
+一
+图
+片
+下
+一
+图
+集
+巴西队训练备战 内马尔认真专注
+{
+            "info": {
+                "setname": "内马尔领衔巴西队抵达卡塔尔 球迷疯狂欢迎",
+                "imgsum_bk": 12,
+                "imgsum": 12,
+                "lmodify": "2022-11-20 12:00:57",
+                "prevue": "北京时间11月20日凌晨，本届世界杯夺冠热门球队巴西队全员抵达卡塔尔。",
+                "channelid": "",
+                "reporter": "",
+                "source": "CFP",
+                "dutyeditor": "李晓天_NS6473",
+                "prev": {
+                    "setname": "巴西队训练备战 内马尔认真专注",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMLDG2LKSBUP0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/SBUP0005/171253.html"
+                },
+                "next": {
+                    "setname": "巴西队训练备战 内马尔认真专注",
+                    "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMLDG2LKSBUP0005NOS.jpg?imageView&thumbnail=100y75",
+                    "seturl": "/photoview/SBUP0005/171253.html"
+                }
+            },
+            "list": [
+            
+                
+                {
+                   "id": "HMJV816ISBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ISBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ISBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ISBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ISBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴西全队抵达卡塔尔",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV816HSBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816HSBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816HSBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816HSBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816HSBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "内马尔竖大拇指",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMK7G2B4SBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMK7G2B4SBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMK7G2B4SBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMK7G2B4SBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMK7G2B4SBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "下载 (13)",
+                   "note": "内马尔在Instagram晒出自己身穿巴西短裤的照片，他还给裤子上的五星P多了一颗星。",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV816GSBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816GSBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816GSBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816GSBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816GSBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "阿利松",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV816FSBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816FSBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816FSBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816FSBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816FSBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴西队走下专机",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV816ESBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ESBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ESBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ESBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ESBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "主帅蒂特",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV816DSBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816DSBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816DSBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816DSBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816DSBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "法比尼奥",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV816CSBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816CSBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816CSBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816CSBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816CSBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "内马尔",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV816BSBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816BSBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816BSBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816BSBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816BSBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "内马尔",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV816ASBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ASBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ASBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ASBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV816ASBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "罗德里戈",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV8169SBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV8169SBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV8169SBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV8169SBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV8169SBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "巴西球迷疯狂欢迎",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+                ,
+                {
+                   "id": "HMJV8168SBUP0005NOS",
+                   "img": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV8168SBUP0005NOS.jpg",
+                   "timg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV8168SBUP0005NOS.jpg",
+                   "simg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV8168SBUP0005NOS.jpg",
+                   "oimg": "http://pic-bucket.ws.126.net/photo/0005/2022-11-20/HMJV8168SBUP0005NOS.jpg",
+                   "osize": {},
+                   "title": "内马尔人形立牌",
+                   "note": "",
+                   "newsurl": "#"
+                }
+            
+            ]
+        }
+图集热榜
+更多推荐
+24小时
+一周
+网易花田
+小太阳
+29岁
+Tina
+32岁
+思思
+26岁
+丹妮
+31岁
+雅悠
+26岁
+小玲儿
+26岁
+[推荐] 同城的优质女生在这里等你
+[找对象] 爱健身超fit女神
+©
+1997-2022 网易公司版权所有
+About NetEase
+|
+公司简介
+|
+联系方法
+|
+招聘信息
+|
+客户服务
+|
+隐私政策
+|
+广告服务
+|
+不良信息举报 Complaint Center
+|
+廉正举报

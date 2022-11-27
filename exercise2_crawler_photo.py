@@ -19,11 +19,11 @@ def valid_filename(s):
 
 
 def working():
-    rule = re.compile("^https://www.163.com/sports/.+$")
+    rule = re.compile("^https://www.163.com/sports/.+$|^https://sports.163.com/.+$")
     while True:
         page = q.get()
         if page not in crawled:
-            content, soup, title, imgset = get_page(page)
+            content, soup, title= get_page(page)
             outlinks = get_all_links(soup, page)
             for links in outlinks:
                 if (rule.match(links)):
@@ -37,7 +37,7 @@ def working():
                     q.task_done()
                     break
                 graph[page] = outlinks
-                add_page_to_folder(page, content, allfile, title, imgset)
+                add_page_to_folder(page, content, allfile, title)
                 crawled.append(page)
                 print(page)
                 varlock.release()
@@ -47,9 +47,7 @@ def working():
 
 
 def get_page(page):
-    content = []
-    imgset = []
-    full = re.compile('^http.*')
+    content = ""
     try:
         req = urllib.request.Request(page)
         req.add_header(
@@ -57,25 +55,21 @@ def get_page(page):
         req = urllib.request.urlopen(req, timeout=10).read()
         soup = BeautifulSoup(req, features="html.parser")
         title = soup.head.title.string.strip()
-        for i in soup.findAll('img'):
-            img = i.get('src')
-            name = i.get('alt')
-            if (img != None) and (name != None):
-                if img in imgset:
-                    pass
-                else:
-                    img.strip()
-                    name.strip()
-                    if img == "" or name == "":
-                        pass
-                    elif full.match(img):
-                        imgset.append(img)
-                        content.append(name)
-                    else:
-                        pass
+        if (soup.find_all('div', {'id' : 'lm'}) != []):
+            for i in soup.findAll('div',{'class' : 'post_body'}):
+                content += i
+                content += "\n"
+            for i in soup.findAll('div',{'class' : 'post_author'}):
+                content += i
+                content += "\n"
+        else:
+            for i in list(soup.stripped_strings):
+            # print(type(i))
+                content += i
+                content += "\n"
     except:
-        return [], "", "", []
-    return content, soup, title, imgset
+        return "", "", ""
+    return content, soup, title
 
 
 def get_all_links(content, page):
@@ -112,8 +106,7 @@ def add_page_to_folder(page, content, allfile, title="", imgset=[]):
     if not os.path.exists(folder):  # 如果文件夹不存在则新建
         os.mkdir(folder)
     f = open(os.path.join(folder, filename), 'w')
-    for i in range(len(imgset)):
-        f.write(str(content[i]+imgset[i]+"\n"))
+    f.write(str(content))  # 将网页存入文件
     f.close()
     if not os.path.exists(os.path.join(folder, filename)):
         exit(-1)
@@ -126,8 +119,8 @@ if __name__ == '__main__':
     crawled = []
     graph = {}
     varlock = threading.Lock()
-    maxnum = 500
-    thread_num = 8
+    maxnum = 6000
+    thread_num = 32
     start_time = time.time()
     for i in range(thread_num):
         t = threading.Thread(target=working)
