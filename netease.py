@@ -27,7 +27,7 @@ def working():
     while True:
         page = q.get()
         if page not in crawled:
-            soup, title, main_text, time, img = get_page(page)
+            soup, title, main_text, time, img, req = get_page(page)
             # print(title)
             outlinks = get_all_links(soup, page)
             for links in outlinks:
@@ -42,7 +42,7 @@ def working():
                     q.task_done()
                     break
                 graph[page] = outlinks
-                add_page_to_folder(page, allfile, title, main_text, time, img)
+                add_page_to_folder(page, allfile, title, main_text, time, img, req)
                 crawled.append(page)
                 print(page)
                 varlock.release()
@@ -76,7 +76,7 @@ def get_page(page):
         
         req = urllib.request.urlopen(req, timeout=10)
         if (req.getcode() == 403):
-            return "", "", "", "", ""
+            return "", "", "", "", "", ""
         req = req.read()
         # print(req)
         tree = etree.HTML(req,parser=etree.HTMLParser(encoding='utf-8'))
@@ -86,7 +86,7 @@ def get_page(page):
         test = tree.xpath('//*[@id="container"]/div[1]/h1/text()')
         # print(test)
         if test == []:
-            return soup, "", "", "", ""
+            return soup, "", "", "", "",""
         title = tree.xpath('//*[@id="container"]/div[1]/h1/text()')[0]
         
         # if len(title) == 0:
@@ -127,8 +127,8 @@ def get_page(page):
         #         content += "\n"
         # print(title)
     except:
-        return "", "", "", "", ""
-    return soup, title, main_text, time, img
+        return "", "", "", "", "",""
+    return soup, title, main_text, time, img, req
 
 def get_img(tree):
     img = tree.xpath('//*[@id="content"]/div[2]/p[3]/img@src')
@@ -154,7 +154,7 @@ def get_all_links(soup, page):
 
 
 # 将网页存到文件夹里，将网址和对应的文件名写入index.txt中
-def add_page_to_folder(page, allfile, title="", main_text="", time="", img=[]):
+def add_page_to_folder(page, allfile, title="", main_text="", time="", img=[], req=""):
     rule = re.compile("^https://www.163.com/sports/article/.+$")
     if rule.match(page):
         # print(title)
@@ -180,6 +180,8 @@ def add_page_to_folder(page, allfile, title="", main_text="", time="", img=[]):
         f = open(os.path.join(folder, additional_folder, filename), 'w')
         f.write(title + "\n" + main_text + "\n")  # 将网页存入文件
         f.close()
+        with open(os.path.join(folder, additional_folder, "source.html"), 'wb') as f:
+            f.write(req)
         for i in range(len(img)):
             if (img[i][0] == ""):
                 continue

@@ -10,7 +10,7 @@ import jieba
 from org.apache.lucene.util import Version
 from org.apache.lucene.store import SimpleFSDirectory
 from org.apache.lucene.index import FieldInfo, IndexWriter, IndexWriterConfig, IndexOptions
-from org.apache.lucene.document import Document, Field, FieldType, StringField, TextField, DateTools
+from org.apache.lucene.document import Document, Field, FieldType, StringField, TextField, LongPoint, DateTools
 from org.apache.lucene.analysis.core import WhitespaceAnalyzer
 from org.apache.lucene.analysis.miscellaneous import LimitTokenCountAnalyzer
 from java.nio.file import Paths
@@ -122,12 +122,17 @@ class IndexFiles(object):
                     folder_name = valid_filename(url)
                     print("adding", folder_name)
                     try:
+                        with open('keyword.txt','r') as f:
+                            keyword = f.read()
+                    except:
+                        keyword = "No key"
+                    try:
                         folder = os.path.join(root, folder_name)
                         file = open(os.path.join(folder, folder_name+'.txt'), encoding='utf-8')
                         contents = file.read()
                         contents = " ".join(jieba.lcut_for_search(contents))
                         file.close()
-                        time_sort = time.replace('-','').replace(':','').replace(" ",'')
+                        time_sort = int(time.replace('-','').replace(':','').replace(" ",''))
                         doc = Document()
                         # doc.add(Field("filename", folder_name+'.txt', t1))
                         # doc.add(Field("path", folder, t1))
@@ -140,8 +145,9 @@ class IndexFiles(object):
                         doc.add(TextField("title", title, Field.Store.YES))
                         doc.add(TextField("url", url, Field.Store.YES))
                         doc.add(TextField("site", site, Field.Store.YES))
-                        doc.add(StringField("time_sort", time_sort, Field.Store.YES))
+                        doc.add(LongPoint("time_sort", time_sort))
                         doc.add(StringField("time", time, Field.Store.YES))
+                        doc.add(TextField("keyword",keyword,Field.Store.YES))
                         CNT += 1
                         if len(contents) > 0:
                             doc.add(Field("contents", contents, t2))
