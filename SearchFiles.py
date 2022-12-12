@@ -8,6 +8,8 @@ from org.apache.lucene.queryparser.classic import QueryParser
 from org.apache.lucene.index import DirectoryReader
 from org.apache.lucene.analysis.core import WhitespaceAnalyzer
 from org.apache.lucene.analysis.cjk import CJKAnalyzer;
+from org.apache.lucene.search import Sort
+from org.apache.lucene.search import SortField
 from java.io import File
 from org.apache.lucene.search import BooleanQuery
 from org.apache.lucene.search import BooleanClause
@@ -61,6 +63,7 @@ def run(searcher, analyzer):
     for k,v in command_dict.items():
         query = QueryParser(k, analyzer).parse(v)
         querys.add(query, BooleanClause.Occur.MUST)
+    # scoreDocs = searcher.search(querys.build(), 10, Sort([SortField.FIELD_SCORE,SortField("time_sort", SortField.Type.LONG,True)])).scoreDocs
     scoreDocs = searcher.search(querys.build(), 10).scoreDocs
     print("%s total matching documents." % len(scoreDocs))
 
@@ -69,8 +72,8 @@ def run(searcher, analyzer):
         # print('url:', doc.get("path"))
         print('title:', doc.get("title"))
         print('url:', doc.get("url"))
-        print('time:', doc.get("time"))
-        print('score',scoreDoc.score)
+        print('time:', doc.get("time_sort"))
+        print('score:',scoreDoc.score)
 
 if __name__ == '__main__':
     STORE_DIR = "index"

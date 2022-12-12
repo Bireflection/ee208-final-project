@@ -10,9 +10,10 @@ import jieba
 from org.apache.lucene.util import Version
 from org.apache.lucene.store import SimpleFSDirectory
 from org.apache.lucene.index import FieldInfo, IndexWriter, IndexWriterConfig, IndexOptions
-from org.apache.lucene.document import Document, Field, FieldType, StringField, TextField, LongPoint, DateTools
+from org.apache.lucene.document import Document, Field, FieldType, StringField, TextField, LongPoint, DateTools,StoredField, NumericDocValuesField
 from org.apache.lucene.analysis.core import WhitespaceAnalyzer
 from org.apache.lucene.analysis.miscellaneous import LimitTokenCountAnalyzer
+from org.apache.lucene.search import IndexSearcher
 from java.nio.file import Paths
 from urllib.parse import urlparse
 from datetime import datetime
@@ -85,17 +86,25 @@ class IndexFiles(object):
         # Indexes documents, frequencies and positions.
         t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)
 
+        t3 = FieldType()
+        t3.setStored(True)
+        t3.setTokenized(True)
+        t3.setIndexOptions(IndexOptions.DOCS_AND_FREQS)
+        
         with open("index.txt", "r") as f:
             line = f.readlines()
             global CNT
             for i in line:
                 flag = True
                 url, title, time = "", "", ""
+                time_sort = 0
                 # print(i.split())
                 if (len(i.split()) != 1):
                     time = " ".join(i.split()[-2:])
                     title = " ".join(i.split()[1:-2])
                     url = i.split()[0].strip("'")
+                    time_sort = int(time.replace('-','').replace(':','').replace(" ",''))
+                    
                     # print(time, title, url)
                     # time.sleep(100)
                 elif (len(i.split()) == 1):
@@ -132,7 +141,6 @@ class IndexFiles(object):
                         contents = file.read()
                         contents = " ".join(jieba.lcut_for_search(contents))
                         file.close()
-                        time_sort = int(time.replace('-','').replace(':','').replace(" ",''))
                         doc = Document()
                         # doc.add(Field("filename", folder_name+'.txt', t1))
                         # doc.add(Field("path", folder, t1))
@@ -140,14 +148,19 @@ class IndexFiles(object):
                         # doc.add(Field("url", url, t1))
                         # doc.add(Field("time_sort", time_sort, t1))
                         # doc.add(Field("time", time, t1))
-                        doc.add(StringField("filename", folder_name+'.txt', Field.Store.YES))
-                        doc.add(StringField("path", folder, Field.Store.YES))
-                        doc.add(TextField("title", title, Field.Store.YES))
-                        doc.add(TextField("url", url, Field.Store.YES))
-                        doc.add(TextField("site", site, Field.Store.YES))
-                        doc.add(LongPoint("time_sort", time_sort))
-                        doc.add(StringField("time", time, Field.Store.YES))
-                        doc.add(TextField("keyword",keyword,Field.Store.YES))
+                        doc.add(Field("filename", folder_name+'.txt', t1))
+                        doc.add(Field("path", folder, t1))
+                        doc.add(Field("title", title, t1))
+                        doc.add(Field("url", url, t1))
+                        doc.add(Field("site", site, t2))
+                        if type(time_sort) != int:
+                            time_sort = 0
+                        print(time_sort)
+                        doc.add(NumericDocValuesField("time_sort", time_sort))
+                        doc.add(StoredField("time_sort", time_sort))
+                        print(doc.get("time_sort"))
+                        doc.add(Field("time", time, t1))
+                        doc.add(Field("keyword",keyword,t2))
                         CNT += 1
                         if len(contents) > 0:
                             doc.add(Field("contents", contents, t2))
