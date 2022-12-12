@@ -156,8 +156,8 @@ class IndexFiles(object):
                         if type(time_sort) != int:
                             time_sort = 0
                         print(time_sort)
-                        doc.add(NumericDocValuesField("time_sort", time_sort))
-                        doc.add(StoredField("time_sort", time_sort))
+                        doc.add(Field("time_sort", time_sort, t3))
+                        # doc.add(StoredField("time_sort", time_sort))
                         print(doc.get("time_sort"))
                         doc.add(Field("time", time, t1))
                         doc.add(Field("keyword",keyword,t2))
