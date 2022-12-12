@@ -130,7 +130,7 @@ def run(searcher, analyzer):
             print('url:', doc.get("url"))
             print('time:', doc.get("time"))
             print('score:',scoreDoc.score)
-            
+            print('egh:', doc.get("contents"))
 if __name__ == '__main__':
     STORE_DIR = "index"
     lucene.initVM(vmargs=['-Djava.awt.headless=true'])

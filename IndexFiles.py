@@ -81,7 +81,7 @@ class IndexFiles(object):
         t1.setIndexOptions(IndexOptions.NONE)  # Not Indexed
 
         t2 = FieldType()
-        t2.setStored(False)
+        t2.setStored(True)
         t2.setTokenized(True)
         # Indexes documents, frequencies and positions.
         t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)
@@ -155,10 +155,10 @@ class IndexFiles(object):
                         doc.add(Field("site", site, t2))
                         if type(time_sort) != int:
                             time_sort = 0
-                        print(time_sort)
+                        # print(time_sort)
                         doc.add(Field("time_sort", time_sort, t3))
                         # doc.add(StoredField("time_sort", time_sort))
-                        print(doc.get("time_sort"))
+                        # print(doc.get("time_sort"))
                         doc.add(Field("time", time, t1))
                         doc.add(Field("keyword",keyword,t2))
                         CNT += 1
