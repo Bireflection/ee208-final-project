@@ -1,6 +1,5 @@
 import os
 from datetime import datetime
-import re
 import string
 import random
 import urllib.error
@@ -9,11 +8,14 @@ import urllib.request
 import requests
 import pandas as pd
 import multiprocessing
+import threading
+import chardet
 from bs4 import BeautifulSoup
 
 
 def date_generator(year):
     date = [datetime.strftime(x,'%Y%m%d') for x in list(pd.date_range(start= str(year) +"0101", end= str(year)+"1226"))]
+    # date = [datetime.strftime(x,'%Y%m%d') for x in list(pd.date_range(start= "20160101", end= "20161231"))]
     return date
 
 def scroll_news_generator(date):
@@ -29,46 +31,6 @@ def valid_filename(s):
     valid_chars = "-_.() %s%s" % (string.ascii_letters, string.digits)
     s = ''.join(c for c in s if c in valid_chars)
     return s
-
-def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
-    index_filename = 'index.txt'  # index.txt中每行是'网址 对应的文件名'
-    folder = 'html_netease'  # 存放网页的文件夹
-    additional_folder = valid_filename(title)
-    filename = valid_filename(title)  # 将网址变成合法的文件名
-    if (len(filename) > 200):
-        filename = filename[0:200]
-    filename += ".txt"
-    # title = str(title.encode('utf-8'))
-    index = open(index_filename, 'a', encoding="utf-8")
-    index.write(str(page.encode('ascii', 'ignore'))
-                [1:] + '\t' + title + '\t' + time + '\n')
-    index.close()
-    if not os.path.exists(folder):  # 如果文件夹不存在则新建
-        os.mkdir(folder)
-    if not os.path.exists(os.path.join(folder, additional_folder)): 
-        os.mkdir(os.path.join(folder, additional_folder))
-    f = open(os.path.join(folder, additional_folder, filename), 'w')
-    f.write(title + "\n" + main_text + "\n")  # 将网页存入文件
-    f.close()
-    with open(os.path.join(folder, additional_folder, "source.html"), 'wb') as f:
-        f.write(req)
-    for i in range(len(img)):
-        if (img[i][0] == ""):
-            continue
-        else:
-            req = requests.get(img[i][0])
-            if img[i][1] == "":
-                img_name = "{}.jpg".format(i+1)
-            else:
-                img_name = "{}.jpg".format(img[i][1])
-                img_name = img_name.replace('\\', '').replace('/', '').replace(':', '').replace('*', '').replace('?', '').replace('"', '').replace('<', '').replace('>', '').replace('|', '')
-                if (len(img_name) > 100):
-                    img_name = img_name[0:50] + '.jpg'
-            f = open(os.path.join(folder, additional_folder, img_name), 'wb')#以二进制格式写入img文件夹中
-            f.write(req.content)
-            f.close()
-    if not os.path.exists(os.path.join(folder, additional_folder, filename)):
-        exit(-1)
 
     
 def get_url_to_crawl(url_list):
@@ -112,6 +74,7 @@ def get_page(url_li):
     page = url_li[0]
     title = url_li[1]
     img = []
+    print(title)
     try:
         USER_AGENTS = [
             'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36',
@@ -131,7 +94,7 @@ def get_page(url_li):
         req.add_header('User-Agent',user_agent)
         
         req = urllib.request.urlopen(req, timeout=10).read()
-        soup = BeautifulSoup(req, features="html.parser")
+        soup = BeautifulSoup(req, features="html.parser",from_encoding="gb18030")
         zw = soup.find('div', {'class' : 'left_zw'})
         main_text = ""
         for i in zw.contents:
@@ -150,37 +113,44 @@ def get_page(url_li):
             else:
                 img.append(["https://www.chinanews.com.cn/" + x.get("src"), x.get("title","no title").replace("\u3000","")])
     except:
-        return  "", "", "", [],""
+        return  "", "", "", [], b''
     return title, main_text, time, img, req
 
-def add_page_to_folder(page, allfile, title="", main_text="", time="", img=[], req=""):
-    # print(title)
+def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
+    print(title)
+    way_of_encoding = chardet.detect(req)
+    if way_of_encoding['encoding'] == None:
+        print("here")
+        return
+    elif way_of_encoding['encoding'] == 'GB2312':
+        way_of_encoding['encoding'] = 'gb18030'
     index_filename = 'index_chinanews.txt'  # index.txt中每行是'网址 对应的文件名'
     folder = 'html_chinanews'  # 存放网页的文件夹
     additional_folder = valid_filename(page)
     filename = valid_filename(page)  # 将网址变成合法的文件名
     if (len(filename) > 200):
         filename = filename[0:200]
-    if ((filename + ".txt") in allfile):
-        return
+
     filename += ".txt"
-    allfile.append(filename)
+
     # title = str(title.encode('utf-8'))
-    with lock:
-        index = open(index_filename, 'a', encoding="utf-8")
-        index.write(str(page.encode('ascii', 'ignore'))
-                    [1:] + '\t' + title + '\t' + time + '\n')
-        index.close()
+    # with lock:
+    index = open(index_filename, 'a', encoding="utf-8")
+    index.write(str(page.encode('ascii', 'ignore'))
+                [1:] + '\t' + title + '\t' + time + '\n')
+    index.close()
 
     if not os.path.exists(folder):  # 如果文件夹不存在则新建
         os.mkdir(folder)
     if not os.path.exists(os.path.join(folder, additional_folder)): 
         os.mkdir(os.path.join(folder, additional_folder))
-    f = open(os.path.join(folder, additional_folder, filename), 'w')
-    f.write(title + "\n" + main_text + "\n")  # 将网页存入文件
+    f = open(os.path.join(folder, additional_folder, filename), 'w', encoding="utf-8")
+    f.write(title + "\n"+ main_text + "\n")  # 将网页存入文件
     f.close()
+    # with open(os.path.join(folder, additional_folder, "cece.txt"), 'w' ) as f:
+    #     f.write(req)
     with open(os.path.join(folder, additional_folder, "source.html"), 'wb') as f:
-        f.write(req)
+        f.write(req.decode(way_of_encoding['encoding']).encode("utf-8"))
     for i in range(len(img)):
         if (img[i][0] == ""):
             continue
@@ -208,17 +178,42 @@ def working(year):
         add_page_to_folder(url_to_crawl[i][0], title, main_text, time, img, req)
     
 if __name__ == '__main__':
-    lock = multiprocessing.Lock()
-    pool = multiprocessing.Pool(7)
-    for i in range(2016,2023):
-        print(i)
-        pool.apply_async(working,args=(i,))
-    # t1 = multiprocessing.Process(target=working, args=(1))
-    # t2 = multiprocessing.Process(target=working, args=(2))
-    # t3 = multiprocessing.Process(target=working, args=(3))
-    # t4 = multiprocessing.Process(target=working, args=(4))
-    # t5 = multiprocessing.Process(target=working, args=(5))
-    # t6 = multiprocessing.Process(target=working, args=(6))
-    # t7 = multiprocessing.Process(target=working, args=(7))
-    pool.close()
-    pool.join()
+    dates = date_generator(2016)
+    url_list = scroll_news_generator(dates)
+    url_to_crawl = get_url_to_crawl(url_list)
+    for i in range(len(url_to_crawl)):
+        title, main_text, time, img, req = get_page(url_to_crawl[i])
+        add_page_to_folder(url_to_crawl[i][0], title, main_text, time, img, req)
+    # url_list = ["https://www.chinanews.com.cn/scroll-news/2016/0101/news.shtml"]
+    # url_to_crawl = get_url_to_crawl(url_list)
+    # for i in range(len(url_to_crawl)):
+    #     title, main_text, time, img, req = get_page(url_to_crawl[i])
+    #     add_page_to_folder(url_to_crawl[i][0], title, main_text, time, img, req)
+    # thread_num = 7
+    # lock = threading.Lock()
+    # thread_list = []
+    # for i in range(thread_num):
+    #     t = threading.Thread(target=working, args=(i+2016,),name="year{}".format(i))
+    #     thread_list.append(t)
+    #     # t.setDaemon(True)
+    #     # t.start()
+    # for t in thread_list:
+    #     t.setDaemon(True)
+    #     t.start()
+    # for t in thread_list:
+    #     t.join()
+    # multiprocessing.set_start_method('spawn')   
+    # lock = multiprocessing.Lock()
+    # pool = multiprocessing.Pool(7)
+    # for i in range(2016,2023):
+    #     print(i)
+    #     pool.apply_async(working,args=(i,))
+    # # t1 = multiprocessing.Process(target=working, args=(1))
+    # # t2 = multiprocessing.Process(target=working, args=(2))
+    # # t3 = multiprocessing.Process(target=working, args=(3))
+    # # t4 = multiprocessing.Process(target=working, args=(4))
+    # # t5 = multiprocessing.Process(target=working, args=(5))
+    # # t6 = multiprocessing.Process(target=working, args=(6))
+    # # t7 = multiprocessing.Process(target=working, args=(7))
+    # pool.close()
+    # pool.join()
