@@ -1,7 +1,7 @@
 import os ,time
 from bs4 import BeautifulSoup
-for (root, dirs, files) in os.walk('html_netease'):
-    if root != 'html_netease':
+for (root, dirs, files) in os.walk('html_chinanews'):
+    if root != 'html_chinanews':
         try:
             with open(os.path.join(root, 'source.html'), 'r') as f:
                 a = f.read()

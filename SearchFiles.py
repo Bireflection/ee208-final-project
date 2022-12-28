@@ -18,16 +18,6 @@ import jieba
 INDEX_DIR = "IndexFiles.index"
 
 
-"""
-This script is loosely based on the Lucene (java implementation) demo class
-org.apache.lucene.demo.SearchFiles.  It will prompt for a search query, then it
-will search the Lucene index in the current directory called 'index' for the
-search query entered against the 'contents' field.  It will then display the
-'path' and 'name' fields for each of the hits it finds in the index.  Note that
-search.close() is currently commented out because it causes a stack overflow in
-some cases.
-"""
-
 def merge(a, low, mid, high):
     tmp=[]
     for i in range(high-low+1):
@@ -63,10 +53,14 @@ def mergesort(a, low, high):
     mergesort(a, mid+1, high)
     merge(a, low, mid, high)
     
-def parseCommand(command):
-    allowed_opt = ['site', 'time_sort']
+def parseCommand(command, img):
+    if (img):
+        opt = 'img_name'
+    else:
+        opt = 'contents'
+    allowed_opt = ['site']
     command_dict = {}
-    opt = 'contents'
+    
     for i in command.split(' '):
         if ':' in i:
             print(opt)
@@ -75,34 +69,50 @@ def parseCommand(command):
             if opt in allowed_opt and value != '':
                 command_dict[opt] = command_dict.get(opt, '') + ' ' + value
         else:
-            command_dict[opt] = command_dict.get(opt, '') + ' ' + i
+            command_dict[opt] = (command_dict.get(opt, '') + ' ' + i).strip()
+            
     return command_dict
 
 
 def run(searcher, analyzer):
+    is_time_sort = False
+    is_img_search = False
     print()
     print ("Hit enter with no input to quit.")
     command = input("Query:")
     if command == '':
         return
-    
+    print()
+    type_of_search = input("Select search type: 1 for default 2 for time sort 3 for img search:")
+    if type_of_search == "2":
+        is_time_sort = True
+    if type_of_search == "3":
+        is_img_search = True
     print()
     print ("Searching for:", command)
-    is_time_sort = False
-    command_dict = parseCommand(command)
-    command_dict["contents"] = " ".join(jieba.lcut_for_search(command_dict.get("contents")))
+    
+    command_dict = parseCommand(command, is_img_search)
+    if is_img_search:
+        command_dict["img_name"] = " ".join(jieba.lcut_for_search(command_dict.get("img_name")))
+    else:
+        command_dict["contents"] = " ".join(jieba.lcut_for_search(command_dict.get("contents")))
     keys = list(command_dict.keys())
 
     if ("site" in keys):
         command_dict["site"] = command_dict["site"].strip()
         command_dict["site"] = command_dict["site"].replace(".", " ")
-    if ("time_sort" in keys):
-        is_time_sort = True
+    # if ("time_sort" in keys):
+    #     is_time_sort = True
+    # if ("img_search" in keys):
+    #     is_img_search = True
     querys = BooleanQuery.Builder()
+    # if  (is )
+    # querys = QueryParser("img_name", analyzer).parse(command)
     for k,v in command_dict.items():
         if (k == "time_sort"):
             continue
         else:
+            print(k,v)
             query = QueryParser(k, analyzer).parse(v)
             querys.add(query, BooleanClause.Occur.MUST)
     # scoreDocs = searcher.search(querys.build(), 10, Sort([SortField.FIELD_SCORE,SortField("time_sort", SortField.Type.LONG,True)])).scoreDocs
@@ -122,7 +132,15 @@ def run(searcher, analyzer):
             print('title:', doc[1].get("title"))
             print('url:', doc[1].get("url"))
             print('time_sort:', doc[1].get("time"))
-            print('score:',doc[2])       
+            print('score:',doc[2])     
+    elif (is_img_search):
+          for scoreDoc in scoreDocs:
+            doc = searcher.doc(scoreDoc.doc)
+            print('title:', doc.get("title"))
+            print('url:', doc.get("url"))
+            print('time:', doc.get("time"))
+            print('score:',scoreDoc.score)
+            print('img:', doc.get("img"))
     else:
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
@@ -130,7 +148,8 @@ def run(searcher, analyzer):
             print('url:', doc.get("url"))
             print('time:', doc.get("time"))
             print('score:',scoreDoc.score)
-            print('egh:', doc.get("contents"))
+            # print('img_name:', doc.get("img_name"))
+            
 if __name__ == '__main__':
     STORE_DIR = "index"
     lucene.initVM(vmargs=['-Djava.awt.headless=true'])

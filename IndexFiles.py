@@ -103,6 +103,9 @@ class IndexFiles(object):
                     time = " ".join(i.split()[-2:])
                     title = " ".join(i.split()[1:-2])
                     url = i.split()[0].strip("'")
+                    time ="".join(filter(str.isdigit, time))
+                    if len(time) == 12:
+                        time += '00'
                     time_sort = int(time.replace('-','').replace(':','').replace(" ",''))
                     
                     # print(time, title, url)
@@ -137,10 +140,20 @@ class IndexFiles(object):
                         keyword = "No key"
                     try:
                         folder = os.path.join(root, folder_name)
+                        
                         file = open(os.path.join(folder, folder_name+'.txt'), encoding='utf-8')
                         contents = file.read()
                         contents = " ".join(jieba.lcut_for_search(contents))
                         file.close()
+                        img_name = []
+                        allfiles = os.listdir(os.path.join(root, folder_name))
+                        all_files_name = os.listdir(os.path.join(root, folder_name))
+                        for k in range(len(allfiles)):
+                            allfiles[k]=os.path.splitext(allfiles[k])[1]
+                        for k in range(len(allfiles)):
+                            if allfiles[k] == '.jpg':
+                                img_name.append(all_files_name[k])
+                                
                         doc = Document()
                         # doc.add(Field("filename", folder_name+'.txt', t1))
                         # doc.add(Field("path", folder, t1))
@@ -161,6 +174,13 @@ class IndexFiles(object):
                         # print(doc.get("time_sort"))
                         doc.add(Field("time", time, t1))
                         doc.add(Field("keyword",keyword,t2))
+                        img = ""
+                        for pic in img_name:
+                            img += pic.replace(".jpg",'') + '|'
+                        img_ori = img
+                        img = " ".join(jieba.lcut_for_search(img))
+                        doc.add(TextField("img_name", img, Field.Store.YES))
+                        doc.add(TextField("img", img_ori, Field.Store.YES))
                         CNT += 1
                         if len(contents) > 0:
                             doc.add(Field("contents", contents, t2))
