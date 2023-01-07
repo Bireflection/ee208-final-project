@@ -197,7 +197,7 @@ if __name__ == '__main__':
     # import ipdb; ipdb.set_trace()
     start = datetime.now()
     try:
-        IndexFiles('html_netease', "index")
+        IndexFiles('html', "index")
         end = datetime.now()
         print(end - start, CNT)
     except Exception as e:

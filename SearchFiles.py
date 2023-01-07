@@ -116,7 +116,7 @@ def run(searcher, analyzer):
             query = QueryParser(k, analyzer).parse(v)
             querys.add(query, BooleanClause.Occur.MUST)
     # scoreDocs = searcher.search(querys.build(), 10, Sort([SortField.FIELD_SCORE,SortField("time_sort", SortField.Type.LONG,True)])).scoreDocs
-    scoreDocs = searcher.search(querys.build(), 50).scoreDocs
+    scoreDocs = searcher.search(querys.build(), 100).scoreDocs
     # sorter = search.Sort(search.SortField('sort_time', search.SortField.Type.LONG))
     # topdocs = searcher.search(query, 10, sorter)
     print("%s total matching documents." % len(scoreDocs))
@@ -133,14 +133,16 @@ def run(searcher, analyzer):
             print('url:', doc[1].get("url"))
             print('time_sort:', doc[1].get("time"))
             print('score:',doc[2])     
+
     elif (is_img_search):
-          for scoreDoc in scoreDocs:
+        for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
             print('title:', doc.get("title"))
             print('url:', doc.get("url"))
             print('time:', doc.get("time"))
             print('score:',scoreDoc.score)
             print('img:', doc.get("img"))
+
     else:
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
@@ -160,3 +162,4 @@ if __name__ == '__main__':
     analyzer = WhitespaceAnalyzer()#Version.LUCENE_CURRENT)
     run(searcher, analyzer)
     del searcher
+    
