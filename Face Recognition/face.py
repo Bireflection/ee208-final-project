@@ -9,7 +9,7 @@ def find_all_img(path):
                 yield((path,file))
 
 
-def encode_img(img_path=['./html_chinanews', './html_netease'], data_path='./data'):
+def encode_img(img_path, data_path='./data'):
     """
     convert the imgs under the img_path into numpy ndarray.
     then save it in data_path
@@ -18,8 +18,8 @@ def encode_img(img_path=['./html_chinanews', './html_netease'], data_path='./dat
     title_list = []
     face_list = []
     img_name_list = []
-    for i in range(2):
-        for path, file in find_all_img(img_path[i]):
+    for i in img_path:
+        for path, file in find_all_img(i):
             try:
                 print(os.path.join(path, file))
                 with open(os.path.join(path, path[path.rfind('/')+1:]+'.txt')) as f:
@@ -57,17 +57,21 @@ def load_img(data_path='./data'):
 
 def compare_img(np_target, np_title_list, np_face_list, np_img_name_list, max_num=10):
     np_truth_list = fr.compare_faces(np_face_list, np_target)
-    cnt = 0
-    if True in np_truth_list:
-        for i in range(len(np_truth_list)):
-            if cnt >= max_num:
-                break
-            if np_truth_list[i] == True:
-                title = np_title_list[i]
-                img_name = np_img_name_list[i]
-                cnt += 1
-                print('Do you want to search: ', end='')
-                print('title: ' + title.strip(), 'img_name: ' + img_name)
+    indices = np.where(np_truth_list)
+    if indices:
+        for i in range(min(max_num, len(indices))):
+            title = np_title_list[indices[i]]
+            img_name = np_img_name_list[indices[i]]
+            print('Do you want to search: ', end='')
+            print('title: ' + title.strip(), 'img_name: ' + img_name)
+        # for i in range(len(np_truth_list)):
+        #     if cnt >= max_num:
+        #         break
+        #     if np_truth_list[i] == True:
+
+        #         cnt += 1
+        #         print('Do you want to search: ', end='')
+        #         print('title: ' + title.strip(), 'img_name: ' + img_name)
         # face = np_truth_list.index(True)
         # title = np_title_list[face]
         # img_name = np_img_name_list[face]
@@ -78,7 +82,7 @@ def compare_img(np_target, np_title_list, np_face_list, np_img_name_list, max_nu
 
 
 if __name__ == '__main__':
-    # encode_img()
+    encode_img(img_path=['./html_chinanews', './html_netease'])
     target = './messi.jpg'
     target = fr.load_image_file(target)
     target = fr.face_encodings(target)
