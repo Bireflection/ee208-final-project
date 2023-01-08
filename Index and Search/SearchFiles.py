@@ -73,6 +73,12 @@ def parseCommand(command, img):
             
     return command_dict
 
+def stopwords():
+    with open('stopwords.txt', 'r') as f:
+        stopwords = f.readlines()
+    for i in range(len(stopwords)):
+        stopwords[i] = stopwords[i].rstrip('\n')
+    return stopwords
 
 def run(searcher, analyzer):
     is_time_sort = False
@@ -97,30 +103,15 @@ def run(searcher, analyzer):
     else:
         command_dict["contents"] = " ".join(jieba.lcut_for_search(command_dict.get("contents")))
     keys = list(command_dict.keys())
-
     if ("site" in keys):
         command_dict["site"] = command_dict["site"].strip()
         command_dict["site"] = command_dict["site"].replace(".", " ")
-    # if ("time_sort" in keys):
-    #     is_time_sort = True
-    # if ("img_search" in keys):
-    #     is_img_search = True
     querys = BooleanQuery.Builder()
-    # if  (is )
-    # querys = QueryParser("img_name", analyzer).parse(command)
     for k,v in command_dict.items():
-        if (k == "time_sort"):
-            continue
-        else:
-            print(k,v)
-            query = QueryParser(k, analyzer).parse(v)
-            querys.add(query, BooleanClause.Occur.MUST)
-    # scoreDocs = searcher.search(querys.build(), 10, Sort([SortField.FIELD_SCORE,SortField("time_sort", SortField.Type.LONG,True)])).scoreDocs
-    scoreDocs = searcher.search(querys.build(), 100).scoreDocs
-    # sorter = search.Sort(search.SortField('sort_time', search.SortField.Type.LONG))
-    # topdocs = searcher.search(query, 10, sorter)
-    print("%s total matching documents." % len(scoreDocs))
-    # print("%s total matching documents." % len(topdocs.scoreDocs))
+        query = QueryParser(k, analyzer).parse(v)
+        querys.add(query, BooleanClause.Occur.MUST)
+    scoreDocs = searcher.search(querys.build(), 2).scoreDocs
+    cnt = 0
     if (is_time_sort):
         doc_time = []
         for scoreDoc in scoreDocs:
@@ -132,17 +123,24 @@ def run(searcher, analyzer):
             print('title:', doc[1].get("title"))
             print('url:', doc[1].get("url"))
             print('time_sort:', doc[1].get("time"))
-            print('score:',doc[2])     
+            print('score:',doc[2]) 
+            cnt += 1    
 
     elif (is_img_search):
+        stop = stopwords()
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
-            print('title:', doc.get("title"))
-            print('url:', doc.get("url"))
-            print('time:', doc.get("time"))
-            print('score:',scoreDoc.score)
-            print('img:', doc.get("img"))
-
+            img_list = doc.get("img").split('|')
+            for img in img_list:
+                search_item = command_dict["img_name"].split()
+                for keyword in search_item:
+                    if keyword in img and keyword not in stop:
+                        print('title:', doc.get("title"))
+                        print('url:', doc.get("url"))
+                        print('time:', doc.get("time"))
+                        print('score:',scoreDoc.score)
+                        print('img:', img +'.jpg')
+                        cnt += 1
     else:
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
@@ -150,8 +148,10 @@ def run(searcher, analyzer):
             print('url:', doc.get("url"))
             print('time:', doc.get("time"))
             print('score:',scoreDoc.score)
-            # print('img_name:', doc.get("img_name"))
+            cnt += 1
             
+    print("%s total matching documents." % cnt)
+        
 if __name__ == '__main__':
     STORE_DIR = "index"
     lucene.initVM(vmargs=['-Djava.awt.headless=true'])
