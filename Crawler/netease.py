@@ -67,7 +67,6 @@ def get_page(page):
             "Mozilla/5.0 (X11; Linux i686; U;) Gecko/20070322 Kazehakase/0.4.5"
         ]
         USER_AGENTS = ['Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62']
-        # PROXY_LI = ["121.13.252.62", "61.216.185.88", "121.13.252.60", "183.236.232.160", "222.74.73.202", "192.168.1.101"]
         user_agent = random.choice(USER_AGENTS)
         req = urllib.request.Request(page)
         # print(req.get())
@@ -75,7 +74,7 @@ def get_page(page):
         req.add_header('Aceept',"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9")
         
         req = urllib.request.urlopen(req, timeout=10)
-        if (req.getcode() == 403):
+        if (req.getcode() == 403 or req.getcode() == 400):
             return "", "", "", "", "", ""
         req = req.read()
         # print(req)
@@ -97,7 +96,6 @@ def get_page(page):
         time = time[:index]
         
         img = []
-        cnt = 0
         for i in soup.findAll('p',{'class' : 'f_center'}):
             # print(type(i.contents[0]))
             if isinstance(i.contents[0], NavigableString):
@@ -129,13 +127,6 @@ def get_page(page):
     except:
         return "", "", "", "", "",""
     return soup, title, main_text, time, img, req
-
-def get_img(tree):
-    img = tree.xpath('//*[@id="content"]/div[2]/p[3]/img@src')
-    # print(img)
-    if (img == None):
-        return "No img"
-    return img
 
 def get_all_links(soup, page):
     links = []

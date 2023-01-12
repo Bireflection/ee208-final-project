@@ -124,7 +124,6 @@ def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
         print(title)
         way_of_encoding = chardet.detect(req)
         if way_of_encoding['encoding'] == None:
-            print("here")
             return
         elif way_of_encoding['encoding'] == 'GB2312':
             way_of_encoding['encoding'] = 'gb18030'
