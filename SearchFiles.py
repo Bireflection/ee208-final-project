@@ -142,6 +142,7 @@ def run(searcher, analyzer):
                         print('img:', img +'.jpg')
                         cnt += 1
     else:
+        print(type(scoreDocs))
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
             print('title:', doc.get("title"))
