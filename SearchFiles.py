@@ -147,7 +147,7 @@ def run(searcher, analyzer):
             doc = searcher.doc(scoreDoc.doc)
             print('title:', doc.get("title"))
             print('url:', doc.get("url"))
-            print('time:', doc.get("time"))
+            print('ori_content:', doc.get("ori_content"))
             print('score:',scoreDoc.score)
             cnt += 1
             

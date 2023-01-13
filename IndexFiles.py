@@ -143,6 +143,7 @@ class IndexFiles(object):
                         
                         file = open(os.path.join(folder, folder_name+'.txt'), encoding='utf-8')
                         contents = file.read()
+                        ori_content = contents
                         contents = " ".join(jieba.lcut_for_search(contents))
                         file.close()
                         img_name = []
@@ -184,6 +185,7 @@ class IndexFiles(object):
                         CNT += 1
                         if len(contents) > 0:
                             doc.add(Field("contents", contents, t2))
+                            doc.add(Field("ori_content", ori_content, t1))
                         else:
                             print("warning: no content in %s" % folder_name+'.txt')
                         writer.addDocument(doc)

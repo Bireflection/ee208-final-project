@@ -1,4 +1,5 @@
 # <center> Lab 15 Final
+
 </center>
 
 <center> 第八组 陈可 贾涵 朱鑫炜 喻智勇
@@ -14,12 +15,11 @@
 - face_recognition(依赖库为cmake, dlib)
 - jieba
 - sklearn
-- bootstrap-flask
 
 # 任务分工
 
 - 陈可：定向采集 2-3 个新闻网站特定类别（本次实验为体育类）的新闻，并进行关键词、图片搜索，时间、相关度排序，网站制作，汇报展示
-- 朱鑫炜：基于人脸的新闻搜索
+- 朱鑫炜：基于人脸的新闻搜索，网站制作协助
 - 贾涵：相似新闻的自动聚类
 - 喻智勇：协助
 
@@ -34,6 +34,7 @@
 &ensp;&ensp;&ensp;&ensp;但是在实际爬虫当中遇到了比预期更多的问题，将在后面的报告中说明。本次的实验源代码全部基于本人的Lab5的代码改动而来。
 
 &ensp;&ensp;&ensp;&ensp;要注意的是，现在的文件结构发生了改变，原先为html_netease的文件夹现在与接下来要提到的html_chinanews合并为了html文件夹。一部分的代码可能因此而发生变动，这里保留的是未改动的代码（因为不需要再次爬取了）
+
 ### 爬虫任务——网易体育
 
 &ensp;&ensp;&ensp;&ensp;首先是网易体育的爬取。由于爬虫时修改较多，此次任务共使用了三分代码文件。按照使用的时间顺序首先介绍netease.py文件。
@@ -275,7 +276,7 @@ for (root, dirs, files) in os.walk('html_chinanews'):
 
 &ensp;&ensp;&ensp;&ensp;以上便是爬取netease的全部代码。
 
-## 爬虫任务——中国新闻网体育
+### 爬虫任务——中国新闻网体育
 
 &ensp;&ensp;&ensp;&ensp;按照爬取新闻年份的不同，分为两份文件：chinanews_old.py和chinanews_new.py。不同的年份的编码等有特殊处理，且遇到了一些问题，故分为两份代码。
 
@@ -300,7 +301,8 @@ def scroll_news_generator(date):
 
 &ensp;&ensp;&ensp;&ensp;我们访问页面观察，滚动新闻如下图所示。可以看到，每个新闻的前面都会有一个分类。我们找到其中写着体育的新闻，获取对应url,访问即可。因此我们使用如下get_url_to_crawl函数，利用beautifulsoup找到这些类别标签所对应的dd_lm类，如果是体育类，则保存标题和对应的url。
 
-![滚动新闻页面](/report/chinanews_exp.jpg "chinanews滚动新闻页面")
+![滚动新闻页面](E:\大学\大二上\电类工程导论（C类）\lab15-Final\report\chinanews_exp.jpg "chinanews滚动新闻页面")
+
 <center> chinanews滚动新闻页面
 </center>
 
@@ -327,11 +329,11 @@ def get_url_to_crawl(url_list):
             user_agent = random.choice(USER_AGENTS)
             req = urllib.request.Request(page)
             req.add_header('User-Agent',user_agent)
-            
+
             req = urllib.request.urlopen(req, timeout=10)
             req = req.read()
             soup = BeautifulSoup(req, features="html.parser")
-        
+
             for i in soup.findAll('div', {'class' : 'dd_lm'}):
                 if i.contents[1].string == "体育":
                     title = i.nextSibling.nextSibling.contents[0].string
@@ -339,19 +341,20 @@ def get_url_to_crawl(url_list):
                     url_to_crawl.append([url, title])
         except:
             print("fail")
-        
+
     return url_to_crawl
 ```
 
 &ensp;&ensp;&ensp;&ensp;下面就是顺着我们所得到的url去爬取网站。首先，我们可以在类型为left-t的地方找到时间，在left_zw找到正文。当然，老页面有所不同，时间在content_left_time里面，我也做了判定。
 
-![time_zw](/report/time_zw.jpg "time_zw")
+![time_zw](E:\大学\大二上\电类工程导论（C类）\lab15-Final\report\time_zw.jpg "time_zw")
 
 <center> 时间和正文 </center>
 
 &ensp;&ensp;&ensp;&ensp;随后我们去找图片。可以看到，图片在text-align:center里面。我们分析里面的src，如果是//开头的，则为缺少https，如果头部具有http，则直接访问即可。而关于图片的名字，如果有title类就以其内容为名字，如果没有，认为这张图片没名字。
 
-![chinanews_pic](/report/chinanews_pic.jpg "chinanews_pic")
+![chinanews_pic](E:\大学\大二上\电类工程导论（C类）\lab15-Final/report/chinanews_pic.jpg "chinanews_pic")
+
 <center> src分析 </center>
 
 ```python
@@ -377,7 +380,7 @@ def get_page(url_li):
         user_agent = random.choice(USER_AGENTS)
         req = urllib.request.Request(page)
         req.add_header('User-Agent',user_agent)
-        
+
         req = urllib.request.urlopen(req, timeout=10).read()
         soup = BeautifulSoup(req, features="html.parser",from_encoding="gb18030")
         zw = soup.find('div', {'class' : 'left_zw'})
@@ -484,6 +487,7 @@ if __name__ == '__main__':
 ```
 
 &ensp;&ensp;&ensp;&ensp;chinanews_new.py和old的区别仅在以下函数。首先判断req类型，不是字节类型转成字节类型。不再转码。
+
 ```python
 def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
     try:
@@ -493,7 +497,7 @@ def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
         else:
             # print(req.text)
             req = req.content
-        
+
         index_filename = 'index_chinanews_2022.txt'  # index.txt中每行是'网址 对应的文件名'
         # folder = 'html_chinanews'  # 存放网页的文件夹
         folder = 'test_for_chinanews'
@@ -549,14 +553,17 @@ def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
 ```
 
 ### 第一部分总结
+
 &ensp;&ensp;&ensp;&ensp;受限于电脑硬盘，在后面将文件统一移到html的时候丢失了几个文件，但问题不大。代码中提到的index.txt和index_chinanews.txt等类似物都合并到了index.txt文件当中。
 
 &ensp;&ensp;&ensp;&ensp;在网页的爬取中遇到了很多稀奇的事情，例如编码类型，例如多进程内存溢出等等。幸好对于结果的影响不算太大。
 
 ## 任务二 建立索引 作者：陈可
+
 &ensp;&ensp;&ensp;&ensp;爬取完网站之后就是索引。这部分和往期lab一模一样，在此基础上增加了一个类叫做t3，用于储存时间数据。利用urlparse返回的数据得到域名，这样便于我搜索的时候进行域名搜索。
 
 &ensp;&ensp;&ensp;&ensp;对于时间，网易的时间能精确到秒，中国新闻网不行，于是将长度用00补齐。对于一篇文档，可以存很多照片。为了匹配照片，我们将文件夹里所有的图片放进一个字符串里面。这样搜索的时候就可以搜得到。至于找到我们所需的图片，那是搜索时干的事情，后面会提到。
+
 ```python
 def indexDocs(self, root, writer):
     t1 = FieldType()
@@ -574,7 +581,7 @@ def indexDocs(self, root, writer):
     t3.setStored(True)
     t3.setTokenized(True)
     t3.setIndexOptions(IndexOptions.DOCS_AND_FREQS)
-    
+
     with open("index.txt", "r") as f:
         line = f.readlines()
         global CNT
@@ -613,7 +620,7 @@ def indexDocs(self, root, writer):
                     keyword = "No key"
                 try:
                     folder = os.path.join(root, folder_name)
-                    
+
                     file = open(os.path.join(folder, folder_name+'.txt'), encoding='utf-8')
                     contents = file.read()
                     contents = " ".join(jieba.lcut_for_search(contents))
@@ -626,7 +633,7 @@ def indexDocs(self, root, writer):
                     for k in range(len(allfiles)):
                         if allfiles[k] == '.jpg':
                             img_name.append(all_files_name[k])
-                            
+
                     doc = Document()
                     doc.add(Field("filename", folder_name+'.txt', t1))
                     doc.add(Field("path", folder, t1))
@@ -656,6 +663,104 @@ def indexDocs(self, root, writer):
 ```
 
 ## 任务三 搜索，排序与网站制作 作者：陈可
-## 任务四 作者：朱鑫炜
+
+## 任务四 基于人脸的新闻搜索 作者：朱鑫炜
+
+### 选择使用开源库
+
+在人脸识别开始，我们面临两种选择，自己训练深度学习框架，完成人脸识别的模块，但是就我之前lab的经验而言，我们自行训练的效果比较差，最后我选择了开源库`face recognition`，通过测试，这个库效果比较好。
+
+### 人脸识别模块的结构
+
+这个模块可以分为 `encode_img`， `load_img`， `compare_img` 三个部分，依次实现了将数据库中图片文件转化为人脸的特征向量，并完成数据的存储，读取之前存储的数据，和将目标图片与已有数据进行比对。
+
+### 具体代码的编写
+
+具体代码如下
+
+- 实现了找出目录下所有图片文件，以辅助完成对目录下图片的处理
+  
+  ```python
+  def find_all_img(path):
+    for path, dirs, files in os.walk(path):
+        for file in files:
+            if file[-3:] == 'jpg':
+                yield((path,file))
+  ```
+
+- 实现了对目录的图片进行处理，同时将新闻的标题，还有图片名称（即图片附近的解释文字），图片的路径加入list，最后利用`numpy`库，将数据存储为`.npy`格式，实现图片数据的预处理。
+  
+  ```python
+    def encode_img(img_path, data_path='./data'):
+        """
+        convert the imgs under the img_path into numpy ndarray.
+        then save it in data_path
+        """
+        # read img and covert it
+        title_list = []
+        face_list = []
+        img_name_list = []
+        img_path_list = []
+        for i in img_path:
+            for path, file in find_all_img(i):
+                try:
+                    print(os.path.join(path, file))
+                    with open(os.path.join(path, path[path.rfind('/')+1:]+'.txt')) as f:
+                        title = f.readline()
+                    img = fr.load_image_file(os.path.join(path, file))
+                    faces = fr.face_encodings(img)
+                    if faces:
+                        for face in faces:
+                            title_list.append(title)
+                            face_list.append(face)
+                            img_name_list.append(file)
+                            img_path_list.append(os.path.join(path, file))
+                except:
+                    print("ERROR IMG!")
+        
+        # save file
+        np_title_list = np.array(title_list)
+        np_face_list = np.array(face_list)
+        np_img_name_list = np.array(img_name_list)
+        np_img_path_list = np.array(img_path_list)
+        
+        if not os.path.exists(data_path):
+            os.mkdir(data_path)
+        np.save(os.path.join(data_path, 'title.npy'), np_title_list)
+        np.save(os.path.join(data_path, 'face.npy'), np_face_list)
+        np.save(os.path.join(data_path, 'img_name.npy'), np_img_name_list)
+        np.save(os.path.join(data_path, 'img_path.npy'), np_img_path_list)
+  ```
+
+- 实现了从npy文件中读入数据
+  
+  ```python
+    def load_img(data_path='./data'):
+        if not os.path.exists(data_path):
+            print('no such path')
+            return [], [], []
+        np_title_list = np.load(os.path.join(data_path, 'title.npy'))
+        np_face_list = np.load(os.path.join(data_path, 'face.npy'))
+        np_img_path_list = np.load(os.path.join(data_path, 'img_name.npy'))
+        return np_title_list, np_face_list, np_img_path_list
+
+  ```
+
+- 这一部分是具体的比较，方式是比对目标的特征向量和数据库中的特征向量相似度，然后返回大于阈值的结果，从中默认挑选前10名。如果没有搜到，会输出空列表
+  
+  ```python
+    def compare_img(np_target, np_title_list, np_face_list, np_img_path_list, max_num=10):
+        np_truth_list = fr.compare_faces(np_face_list, np_target)
+        indices = np.where(np_truth_list)
+        img_list = []
+        if indices:
+            for i in range(min(max_num, len(indices))):
+                title = np_title_list[indices[i]]
+                img_path = np_img_path_list[indices[i]]
+                img_list.append({"title":title, "img_path":img_path})
+        return img_list
+  ```
+
 ## 任务五 作者：贾涵
+
 # 最终效果

@@ -18,6 +18,7 @@ def encode_img(img_path, data_path='./data'):
     title_list = []
     face_list = []
     img_name_list = []
+    img_path_list = []
     for i in img_path:
         for path, file in find_all_img(i):
             try:
@@ -31,6 +32,7 @@ def encode_img(img_path, data_path='./data'):
                         title_list.append(title)
                         face_list.append(face)
                         img_name_list.append(file)
+                        img_path_list.append(os.path.join(path, file))
             except:
                 print("ERROR IMG!")
     
@@ -38,11 +40,15 @@ def encode_img(img_path, data_path='./data'):
     np_title_list = np.array(title_list)
     np_face_list = np.array(face_list)
     np_img_name_list = np.array(img_name_list)
+    np_img_path_list = np.array(img_path_list)
+    
     if not os.path.exists(data_path):
         os.mkdir(data_path)
     np.save(os.path.join(data_path, 'title.npy'), np_title_list)
     np.save(os.path.join(data_path, 'face.npy'), np_face_list)
     np.save(os.path.join(data_path, 'img_name.npy'), np_img_name_list)
+    np.save(os.path.join(data_path, 'img_path.npy'), np_img_path_list)
+    
     
 
 
@@ -52,26 +58,26 @@ def load_img(data_path='./data'):
         return [], [], []
     np_title_list = np.load(os.path.join(data_path, 'title.npy'))
     np_face_list = np.load(os.path.join(data_path, 'face.npy'))
-    np_img_name_list = np.load(os.path.join(data_path, 'img_name.npy'))
-    return np_title_list, np_face_list, np_img_name_list
+    np_img_path_list = np.load(os.path.join(data_path, 'img_path.npy'))
+    return np_title_list, np_face_list, np_img_path_list
 
-def compare_img(np_target, np_title_list, np_face_list, np_img_name_list, max_num=10):
+def compare_img(np_target, np_title_list, np_face_list, np_img_path_list, max_num=10):
     np_truth_list = fr.compare_faces(np_face_list, np_target)
     indices = np.where(np_truth_list)
+    img_list = []
     if indices:
         for i in range(min(max_num, len(indices))):
             title = np_title_list[indices[i]]
-            img_name = np_img_name_list[indices[i]]
-            print('Do you want to search: ', end='')
-            print('title: ' + title.strip(), 'img_name: ' + img_name)
-    else:
-        print("Sorry, we've find no result.")
-
+            img_path = np_img_path_list[indices[i]]
+            for tit, path in zip(title, img_path):
+                img_list.append({"title":tit.strip("\n"), "img_path":path})
+    return img_list
 
 if __name__ == '__main__':
-    encode_img(img_path=['./html'])
+    # encode_img(img_path=['./static/html'])
     target = './messi.jpg'
     target = fr.load_image_file(target)
     target = fr.face_encodings(target)
-    np_title_list, np_face_list, np_img_name_list = load_img()
-    compare_img(target, np_title_list, np_face_list, np_img_name_list, 20)
+    np_title_list, np_face_list, np_img_path_list = load_img()
+    result = compare_img(target, np_title_list, np_face_list, np_img_path_list, 20)
+    print(result)
