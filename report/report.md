@@ -7,14 +7,14 @@
 
 # 实验环境
 
-本次实验基于Docker当中的sjtucmic/ee208镜像。在此基础上使用了原环境当中没有的库，列举如下：
+本次实验基于Docker当中的`sjtucmic/ee208`镜像。在此基础上使用了原环境当中没有的库，列举如下：
 
-- requests
-- pandas
-- chardet
-- face_recognition(依赖库为cmake, dlib)
-- jieba
-- sklearn
+- `requests`
+- `pandas`
+- `chardet`
+- `face_recognition`(依赖库为`cmake`, `dlib`)
+- `jieba`
+- `sklearn`
 
 # 任务分工
 
@@ -29,17 +29,17 @@
 
 ### 网站的选择
 
-&ensp;&ensp;&ensp;&ensp;在选择我们组所需要的网站的时候，我在很多网站当中做过对比，最后选择了网易体育以及中国新闻网的体育频道。选择这两个新闻网站的原因在于，它们的网址都有明确分类，这一点相比于澎湃新闻等网站相比要便于分类。同时，中国新闻网提供了滚动新闻，即将一天内的所有新闻集中在一页上的页面。这样便于爬取，也不需要重新加载。
+在选择我们组所需要的网站的时候，我在很多网站当中做过对比，最后选择了网易体育以及中国新闻网的体育频道。选择这两个新闻网站的原因在于，它们的网址都有明确分类，这一点相比于澎湃新闻等网站相比要便于分类。同时，中国新闻网提供了滚动新闻，即将一天内的所有新闻集中在一页上的页面。这样便于爬取，也不需要重新加载。
 
-&ensp;&ensp;&ensp;&ensp;但是在实际爬虫当中遇到了比预期更多的问题，将在后面的报告中说明。本次的实验源代码全部基于本人的Lab5的代码改动而来。
+但是在实际爬虫当中遇到了比预期更多的问题，将在后面的报告中说明。本次的实验源代码全部基于本人的Lab5的代码改动而来。
 
-&ensp;&ensp;&ensp;&ensp;要注意的是，现在的文件结构发生了改变，原先为html_netease的文件夹现在与接下来要提到的html_chinanews合并为了html文件夹。一部分的代码可能因此而发生变动，这里保留的是未改动的代码（因为不需要再次爬取了）
+要注意的是，现在的文件结构发生了改变，原先为`html_netease`的文件夹现在与接下来要提到的`html_chinanews`合并为了`html`文件夹。一部分的代码可能因此而发生变动，这里保留的是未改动的代码（因为不需要再次爬取了）
 
 ### 爬虫任务——网易体育
 
-&ensp;&ensp;&ensp;&ensp;首先是网易体育的爬取。由于爬虫时修改较多，此次任务共使用了三分代码文件。按照使用的时间顺序首先介绍netease.py文件。
+首先是网易体育的爬取。由于爬虫时修改较多，此次任务共使用了三分代码文件。按照使用的时间顺序首先介绍`netease.py`文件。
 
-&ensp;&ensp;&ensp;&ensp;首先是主程序working。首先设定规则为网易体育的两类域名，不符合此规则的网页不予爬取。接着调用get_page函数获取页面信息，利用get_all_links获取之后需要爬取的网页，并加入队列。最后，存储爬取到的数据。
+首先是主程序`working`。首先设定规则为网易体育的两类域名，不符合此规则的网页不予爬取。接着调用`get_page`函数获取页面信息，利用`get_all_links`获取之后需要爬取的网页，并加入队列。最后，存储爬取到的数据。
 函数体如下：
 
 ```python
@@ -72,7 +72,7 @@ def working():
             q.task_done()
 ```
 
-&ensp;&ensp;&ensp;&ensp;然后是get_page函数。get_page函数为了防止被系统识别为爬虫，采用了多种header，使用random函数选一个header进行爬虫，并且增加响应格式等参数进行爬虫。如果识别到错误返回码（400，403等）则返回空。同时使用etree和beautifulsoup对于响应进行解析。test参数用于读取标题，如果没有标题则继续返回空。利用xpath获取正文，时间，并对时间进行去除无用字符的处理。
+然后是`get_page`函数。`get_page`函数为了防止被系统识别为爬虫，采用了多种header，使用`random`函数选一个header进行爬虫，并且增加响应格式等参数进行爬虫。如果识别到错误返回码（400，403等）则返回空。同时使用`etree`和`beautifulsoup`对于响应进行解析。`test`参数用于读取标题，如果没有标题则继续返回空。利用`xpath`获取正文，时间，并对时间进行去除无用字符的处理。
 
 ```python
 USER_AGENTS = [
@@ -111,7 +111,7 @@ index = time.find("来源")
 time = time[:index]
 ```
 
-&ensp;&ensp;&ensp;&ensp;随后处理图片。第一个问题出现，网易新闻当中，有关图片的所在位置多种多样，杂乱无章，无法使用xpath。使用beautifulsoup获取图片。z这里调用的bs4里面的NavigableString类。我们先找到f_center分类，如果得到的元素类型是NavigableString，则舍弃不要，然后去找照片的地址。同时，我们也尽力去找到照片的描述。如果能用alt则用alt，不能去找它附近的文字描述。这是目前的解决方法。由于不同img在des部分的区别过大，部分图片会出现图片的名字是js函数的情况。但是，由于图片数量多，这种情况所占比例不是很大，对最后结果的影响不算太大。
+随后处理图片。第一个问题出现，网易新闻当中，有关图片的所在位置多种多样，杂乱无章，无法使用`xpath`。使用`beautifulsoup`获取图片。这里调用的`bs4`里面的`NavigableString`类。我们先找到`f_center`分类，如果得到的元素类型是`NavigableString`，则舍弃不要，然后去找照片的地址。同时，我们也尽力去找到照片的描述。如果能用`alt`则用`alt`，不能去找它附近的文字描述。这是目前的解决方法。由于不同`img`在`des`部分的区别过大，部分图片会出现图片的名字是js函数的情况。但是，由于图片数量多，这种情况所占比例不是很大，对最后结果的影响不算太大。
 
 ```python
 img = []
@@ -132,7 +132,7 @@ for i in soup.findAll('p',{'class' : 'f_center'}):
         img.append((pho, des))
 ```
 
-&ensp;&ensp;&ensp;&ensp;然后是get_all_links函数。这与往期Lab的代码一样，用途是识别是相对地址还是绝对地址，如果为相对地址则加上域名。
+然后是`get_all_links`函数。这与往期Lab的代码一样，用途是识别是相对地址还是绝对地址，如果为相对地址则加上域名。
 
 ```python
 def get_all_links(soup, page):
@@ -151,7 +151,7 @@ def get_all_links(soup, page):
     return links
 ```
 
-&ensp;&ensp;&ensp;&ensp;add_page_to_folder函数的作用在于将网页存进文件夹里。与往期lab不一样的地方在于，这个函数同时具备把图片下载的能力。使用requests库来获取图片，以二进制储存，修改文件名使其合法。
+`add_page_to_folder`函数的作用在于将网页存进文件夹里。与往期lab不一样的地方在于，这个函数同时具备把图片下载的能力。使用`requests`库来获取图片，以二进制储存，修改文件名使其合法。
 
 ```python
 # 将网页存到文件夹里，将网址和对应的文件名写入index.txt中
@@ -204,7 +204,7 @@ def add_page_to_folder(page, allfile, title="", main_text="", time="", img=[], r
         return
 ```
 
-&ensp;&ensp;&ensp;&ensp;最后是主函数,使用了多线程。这里maxnum和最后的数目不一致，是我人为中止所造成的（硬盘空间问题）
+最后是主函数,使用了多线程。这里`maxnum`和最后的数目不一致，是我人为中止所造成的（硬盘空间问题）
 
 ```python
 if __name__ == '__main__':
@@ -226,7 +226,7 @@ if __name__ == '__main__':
     print(end_time - start_time)
 ```
 
-&ensp;&ensp;&ensp;&ensp;同时介绍两个小的代码文件。首先是download.py。顾名思义，由于写netease.py的时候没有下载原网页，为了后期使用方便，增加的。只是单纯的请求网页并下载，不在过多阐述。
+同时介绍两个小的代码文件。首先是`download.py`。顾名思义，由于写`netease.py`的时候没有下载原网页，为了后期使用方便，增加的。只是单纯的请求网页并下载，不在过多阐述。
 
 ```python
 if __name__ == '__main__':
@@ -253,7 +253,7 @@ if __name__ == '__main__':
                 print("Failed in download:", e)
 ```
 
-&ensp;&ensp;&ensp;&ensp;其次是getkeyword.py，用于从网页的keyword字段提取关键词。基于之前下载的网页进行操作，使用beautifulsoup找到keyword所在位置，有就存下来。
+其次是`getkeyword.py`，用于从网页的keyword字段提取关键词。基于之前下载的网页进行操作，使用`beautifulsoup`找到keyword所在位置，有就存下来。
 
 ```python
 import os
@@ -274,15 +274,15 @@ for (root, dirs, files) in os.walk('html_chinanews'):
             continue
 ```
 
-&ensp;&ensp;&ensp;&ensp;以上便是爬取netease的全部代码。
+以上便是爬取netease的全部代码。
 
 ### 爬虫任务——中国新闻网体育
 
-&ensp;&ensp;&ensp;&ensp;按照爬取新闻年份的不同，分为两份文件：chinanews_old.py和chinanews_new.py。不同的年份的编码等有特殊处理，且遇到了一些问题，故分为两份代码。
+按照爬取新闻年份的不同，分为两份文件：`chinanews_old.py`和`chinanews_new.py`。不同的年份的编码等有特殊处理，且遇到了一些问题，故分为两份代码。
 
-&ensp;&ensp;&ensp;&ensp;首先从old开始，介绍一下对于中国新闻网滚动网页的思路。
+首先从old开始，介绍一下对于中国新闻网滚动网页的思路。
 
-&ensp;&ensp;&ensp;&ensp;观察可知，滚动新闻从16年到现在依旧保持着同一个结构。所以我们利用这种结构（如下代码所示）产生一下滚动新闻的网页url。在这里，我们要先产生一个日期序列。这里date_generator函数利用pandas产生一个日期序列，再利用datetime库当中的strfttime方法规定格式。传入scroll_news_generator函数当中，产生url列表。
+观察可知，滚动新闻从16年到现在依旧保持着同一个结构。所以我们利用这种结构（如下代码所示）产生一下滚动新闻的网页url。在这里，我们要先产生一个日期序列。这里`date_generator`函数利用`pandas`产生一个日期序列，再利用`datetime`库当中的`strfttime`方法规定格式。传入`scroll_news_generator`函数当中，产生url列表。
 
 ```python
 def date_generator(year):
@@ -299,7 +299,7 @@ def scroll_news_generator(date):
     return url_list
 ```
 
-&ensp;&ensp;&ensp;&ensp;我们访问页面观察，滚动新闻如下图所示。可以看到，每个新闻的前面都会有一个分类。我们找到其中写着体育的新闻，获取对应url,访问即可。因此我们使用如下get_url_to_crawl函数，利用beautifulsoup找到这些类别标签所对应的dd_lm类，如果是体育类，则保存标题和对应的url。
+我们访问页面观察，滚动新闻如下图所示。可以看到，每个新闻的前面都会有一个分类。我们找到其中写着体育的新闻，获取对应url,访问即可。因此我们使用如下`get_url_to_crawl`函数，利用`beautifulsoup`找到这些类别标签所对应的`dd_lm`类，如果是体育类，则保存标题和对应的url。
 
 ![滚动新闻页面](E:\大学\大二上\电类工程导论（C类）\lab15-Final\report\chinanews_exp.jpg "chinanews滚动新闻页面")
 
@@ -345,13 +345,13 @@ def get_url_to_crawl(url_list):
     return url_to_crawl
 ```
 
-&ensp;&ensp;&ensp;&ensp;下面就是顺着我们所得到的url去爬取网站。首先，我们可以在类型为left-t的地方找到时间，在left_zw找到正文。当然，老页面有所不同，时间在content_left_time里面，我也做了判定。
+下面就是顺着我们所得到的`url`去爬取网站。首先，我们可以在类型为`left-t`的地方找到时间，在`left_zw`找到正文。当然，老页面有所不同，时间在`content_left_time`里面，我也做了判定。
 
 ![time_zw](E:\大学\大二上\电类工程导论（C类）\lab15-Final\report\time_zw.jpg "time_zw")
 
 <center> 时间和正文 </center>
 
-&ensp;&ensp;&ensp;&ensp;随后我们去找图片。可以看到，图片在text-align:center里面。我们分析里面的src，如果是//开头的，则为缺少https，如果头部具有http，则直接访问即可。而关于图片的名字，如果有title类就以其内容为名字，如果没有，认为这张图片没名字。
+随后我们去找图片。可以看到，图片在`text-align:center`里面。我们分析里面的`src`，如果是`//`开头的，则为缺少`https`，如果头部具有`http`，则直接访问即可。而关于图片的名字，如果有`title`类就以其内容为名字，如果没有，认为这张图片没名字。
 
 ![chinanews_pic](E:\大学\大二上\电类工程导论（C类）\lab15-Final/report/chinanews_pic.jpg "chinanews_pic")
 
@@ -407,8 +407,8 @@ def get_page(url_li):
     return title, main_text, time, img, req
 ```
 
-&ensp;&ensp;&ensp;&ensp;然后就是网页的储存。问题随之出现。在老网页，例如16年的网页，用的是GB2312，新网页用的是utf-8。为了分析我获取的是什么样子的网页，引入了一个新的库为chardet，它能分析出网页的编码。但是，它将utf-8认成了KOI-8，gb2312却可以识别。无奈之下，分为了两个文件。
-&ensp;&ensp;&ensp;&ensp;对于老网页来说，判断其编码，没有编码证明没爬取成功，如果是gb2312就将其转为gb18030（足够大）然后进行储存，储存方法和网易那边类似，不再展开。
+然后就是网页的储存。问题随之出现。在老网页，例如16年的网页，用的是`GB2312`，新网页用的是`utf-8`。为了分析我获取的是什么样子的网页，引入了一个新的库为`chardet`，它能分析出网页的编码。但是，它将`utf-8`认成了`KOI-8`，`gb2312`却可以识别。无奈之下，分为了两个文件。
+对于老网页来说，判断其编码，没有编码证明没爬取成功，如果是`gb2312`就将其转为`gb18030`（足够大）然后进行储存，储存方法和网易那边类似，不再展开。
 
 ```python
 def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
@@ -473,7 +473,7 @@ def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
             f.write("WRONG")
 ```
 
-&ensp;&ensp;&ensp;&ensp;然后是working函数，调用这些函数。随后，主函数采用了多进程（multiprocessing）库。但是，第一次尝试的时候，电脑内存爆了。查阅资料得知，python在多进程的时候，内存回收会出现问题。随后实验了更多方法（源代码注释部分），无结果。最后又因为后面将新旧网页分开，所以旧网页使用多进程和进程池，但只有三个进程（3年），就不会爆内存了。新网页则是一年一年的爬（只爬了2022年的，硬盘满了）。主函数如下：
+然后是`working`函数，调用这些函数。随后，主函数采用了多进程`multiprocessing`库。但是，第一次尝试的时候，电脑内存爆了。查阅资料得知，python在多进程的时候，内存回收会出现问题。随后实验了更多方法（源代码注释部分），无结果。最后又因为后面将新旧网页分开，所以旧网页使用多进程和进程池，但只有三个进程（3年），就不会爆内存了。新网页则是一年一年的爬（只爬了2022年的，硬盘满了）。主函数如下：
 
 ```python
 if __name__ == '__main__':
@@ -486,7 +486,7 @@ if __name__ == '__main__':
     pool.join()
 ```
 
-&ensp;&ensp;&ensp;&ensp;chinanews_new.py和old的区别仅在以下函数。首先判断req类型，不是字节类型转成字节类型。不再转码。
+`chinanews_new.py`和`old`的区别仅在以下函数。首先判断`req`类型，不是字节类型转成字节类型。不再转码。
 
 ```python
 def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
@@ -554,15 +554,15 @@ def add_page_to_folder(page, title="", main_text="", time="", img=[], req=""):
 
 ### 第一部分总结
 
-&ensp;&ensp;&ensp;&ensp;受限于电脑硬盘，在后面将文件统一移到html的时候丢失了几个文件，但问题不大。代码中提到的index.txt和index_chinanews.txt等类似物都合并到了index.txt文件当中。
+受限于电脑硬盘，在后面将文件统一移到`html`文件夹的时候丢失了几个文件，但问题不大。代码中提到的`index.txt`和`index_chinanews.txt`等类似物都合并到了`index.txt`文件当中。
 
-&ensp;&ensp;&ensp;&ensp;在网页的爬取中遇到了很多稀奇的事情，例如编码类型，例如多进程内存溢出等等。幸好对于结果的影响不算太大。
+在网页的爬取中遇到了很多稀奇的事情，例如编码类型，例如多进程内存溢出等等。幸好对于结果的影响不算太大。
 
 ## 任务二 建立索引 作者：陈可
 
-&ensp;&ensp;&ensp;&ensp;爬取完网站之后就是索引。这部分和往期lab一模一样，在此基础上增加了一个类叫做t3，用于储存时间数据。利用urlparse返回的数据得到域名，这样便于我搜索的时候进行域名搜索。
+爬取完网站之后就是索引。这部分和往期lab一模一样，在此基础上增加了一个类叫做t3，用于储存时间数据。利用`urlparse`返回的数据得到域名，这样便于我搜索的时候进行域名搜索。
 
-&ensp;&ensp;&ensp;&ensp;对于时间，网易的时间能精确到秒，中国新闻网不行，于是将长度用00补齐。对于一篇文档，可以存很多照片。为了匹配照片，我们将文件夹里所有的图片放进一个字符串里面。这样搜索的时候就可以搜得到。至于找到我们所需的图片，那是搜索时干的事情，后面会提到。
+对于时间，网易的时间能精确到秒，中国新闻网不行，于是将长度用00补齐。对于一篇文档，可以存很多照片。为了匹配照片，我们将文件夹里所有的图片放进一个字符串里面。这样搜索的时候就可以搜得到。至于找到我们所需的图片，那是搜索时干的事情，后面会提到。
 
 ```python
 def indexDocs(self, root, writer):
@@ -664,6 +664,188 @@ def indexDocs(self, root, writer):
 
 ## 任务三 搜索，排序与网站制作 作者：陈可
 
+### 搜索、排序
+
+这次的搜索主要分为相关度排序和时间排序。在索引的时候，已经预先准备好了用于进行时间排序的字段。因此搜索的时候，直接利用列表的`sort`功能进行排序即可。Lucene自带的`NumericField`测试过程中发生了溢出，所以没有采用。同时，搜索支持根据域名搜索，只需要在搜索的时候加上`site:域名`就可以了。具体的做法和之前的lab一样，利用的是`urlparse`，得到的数据里是有域名的。
+
+这里我们以时间排序为例，相关度排序相比时间排序少了sort的过程。对于网页所需要的高亮字段，不同于我们之前所使用的人工变色，这里我用了Lucene自带的`Highlighter`等相关库，参考链接为`https://blog.csdn.net/lushuaiyin/article/details/84169148`。`Highlighter`依赖于词汇单元流中每个词汇单元的起始和结束位置偏移量来将原始输入文本中的字符片段进行精确定位用于高亮显示。同时，为了让`Highlighter`挑选出最适合的一个或多个片段，要引入打分器`Scorer`。编码则使用了`SimpleHTMLEncoder`。函数如下：
+
+```python
+def time_sort(keyword):
+    STORE_DIR = "index"
+    vm_env.attachCurrentThread()
+    directory = SimpleFSDirectory(File(STORE_DIR).toPath())
+    searcher = IndexSearcher(DirectoryReader.open(directory))
+    analyzer = WhitespaceAnalyzer()
+    command = keyword
+
+    command_dict = parseCommand(command, False)
+    command_dict["contents"] = " ".join(jieba.lcut_for_search(command_dict.get("contents")))
+    keys = list(command_dict.keys())
+    if ("site" in keys):
+        command_dict["site"] = command_dict["site"].strip()
+        command_dict["site"] = command_dict["site"].replace(".", " ")
+    querys = BooleanQuery.Builder()
+    for k,v in command_dict.items():
+        query = QueryParser(k, analyzer).parse(v)
+        querys.add(query, BooleanClause.Occur.MUST)
+    scoreDocs = searcher.search(querys.build(), 10000).scoreDocs
+    doc_time = []
+    for scoreDoc in scoreDocs:
+        doc = searcher.doc(scoreDoc.doc)
+        doc_time.append([doc.get("time_sort"), doc, scoreDoc.score])
+    doc_time.sort(key=lambda x: x[0], reverse=True)
+
+    RESULT = []
+    cnt = 0
+    for x in doc_time:
+        doc = x[1]
+        # highlights 
+        site = doc.get("site")
+        path = doc.get("path")
+        if ("163" in site):
+            img_path = '../static/netease.jpg'
+        else:
+            img_path = '../static/chinanews.png'
+        if doc.get("img"):
+            img = doc.get('img').split("|")[0]
+            img_path = '../static/' + path + '/' +img + '.jpg'
+        if keyword not in str(doc.get('contents').replace(" ", "")):
+            continue
+        formatter = SimpleHTMLFormatter() 
+        scorer = QueryTermScorer(querys.build())
+        encoder = SimpleHTMLEncoder()
+        highlighter = Highlighter(formatter, encoder, scorer)
+        fragmenter = SimpleFragmenter(80)
+        highlighter.setTextFragmenter(fragmenter)
+        doc_dic = {}
+        doc_dic.update({'title': doc.get("title")})
+        doc_dic.update({'url': doc.get("url")})
+        doc_dic.update({'time': doc.get("time")[0:4] + "年" + doc.get("time")[4:6] + "月" + doc.get("time")[6:8] + "日"})
+        doc_dic.update({'score': scoreDoc.score})
+        doc_dic.update({'contents': doc.get("contents")})
+        doc_dic.update({'highlights': highlighter.getBestFragment(analyzer, 'contents', doc.get('contents')).replace(" ", "")})
+        # doc_dic.update({'img': img})
+        doc_dic.update({'img_path': img_path})
+
+        cnt += 1
+        RESULT.append(doc_dic)
+    return RESULT, cnt
+```
+
+要注意的是，为了配合网页的制作，要以字典返回所需内容。
+
+### 基于文字的图片搜索
+
+利用文字搜索图片的方式是：爬取图片的同时也爬取图片附近的对应描述，当做文件名。建立索引的时候将这些名字拼接成字符串，对这个字符串去查找。最后，在字符串当中找到我所要查询的关键词所对应的那幅图片。为了防止误判，比如输入`的`能够显示图片，从网上找到了百度停用词表`stopwords.txt`用于之后的使用。要是在停用词表里的搜索关键词，不予搜索。
+
+具体函数如下：
+
+```python
+def img_search_by_word(keyword):
+    STORE_DIR = "index"
+    vm_env.attachCurrentThread()
+    directory = SimpleFSDirectory(File(STORE_DIR).toPath())
+    searcher = IndexSearcher(DirectoryReader.open(directory))
+    analyzer = WhitespaceAnalyzer()
+    command = keyword
+    command_dict = parseCommand(command, True)
+    command_dict["img_name"] = " ".join(jieba.lcut_for_search(command_dict.get("img_name")))
+    keys = list(command_dict.keys())
+    if ("site" in keys):
+        command_dict["site"] = command_dict["site"].strip()
+        command_dict["site"] = command_dict["site"].replace(".", " ")
+    querys = BooleanQuery.Builder()
+    for k,v in command_dict.items():
+        query = QueryParser(k, analyzer).parse(v)
+        querys.add(query, BooleanClause.Occur.MUST)
+    scoreDocs = searcher.search(querys.build(), 2000).scoreDocs
+    RESULT = []
+    cnt = 0
+    for scoreDoc in scoreDocs:
+        doc = searcher.doc(scoreDoc.doc)
+        # highlights 
+        site = doc.get("site")
+        path = doc.get("path")
+        stop = stopwords()
+        if ("163" in site):
+            img_path = '../static/netease.jpg'
+        else:
+            img_path = '../static/chinanews.png'
+        img_list = doc.get("img").split('|')
+        for img in img_list:
+            search_item = command_dict["img_name"].split()
+            for keyword in search_item:
+                if keyword in img and keyword not in stop:
+                    img_path = '../static/' + path + '/' + img + '.jpg'
+                    if keyword not in str(doc.get('contents').replace(" ", "")):
+                        continue
+                    formatter = SimpleHTMLFormatter() 
+                    scorer = QueryTermScorer(querys.build())
+                    encoder = SimpleHTMLEncoder()
+                    highlighter = Highlighter(formatter, encoder, scorer)
+                    fragmenter = SimpleFragmenter(80)
+                    highlighter.setTextFragmenter(fragmenter)
+                    doc_dic = {}
+                    doc_dic.update({'title': doc.get("title")})
+                    doc_dic.update({'url': doc.get("url")})
+                    doc_dic.update({'time': doc.get("time")[0:4] + "年" + doc.get("time")[4:6] + "月" + doc.get("time")[6:8] + "日"})
+                    doc_dic.update({'score': scoreDoc.score})
+                    doc_dic.update({'contents': doc.get("contents")})
+                    # doc_dic.update({'img': img})
+                    doc_dic.update({'img_path': img_path})
+
+                    cnt += 1
+                    RESULT.append(doc_dic)
+```
+
+### 网页整合
+
+由于一些事件，留给我制作网页的时间很短。因此很多东西比较的粗糙。
+
+侧边栏导航参考的是`https://blog.csdn.net/qq_25503949/article/details/106244548`。我们点击logo图片，对应的标签就会进行内容的平移操作。为了让我们自己写的部分也能应用到这一平移缩放效果，利用继承类实现。
+
+在首页，我们制作了一个滚动播放的图片栏（虽然后面看效果图像是小广告）。利用`@keyframes`，可以创建动画，通过`left`移动图片使得图片动起来。
+
+```html
+  @keyframes re {
+      0% {
+          left: calc(1000px * 0);
+      }
+      25% {
+          left: calc(1000px * -1);
+      }
+      50% {
+          left: calc(1000px * -1);
+      }
+      50% {
+          left: calc(1000px * -2);
+      }
+      75% {
+          left: calc(1000px * -2);
+      }
+      75% {
+          left: calc(1000px * -3);
+      }
+      100% {
+          left: calc(1000px * -3);
+      }
+      100% {
+          left: calc(1000px * -4);
+      }
+  }
+```
+
+然后是flask的跳转。我们在每个页面基本都是有按钮的，通过表单和按钮达到跳转，或者说是呈现结果的目的。
+
+在普通搜索的时候，和lab7的操作一致，利用普通表单上传搜索内容就可以了。但是，在人脸识别的时候，因为是用户上传文件上来，所以使用了表单当中的`enctype="multipart/form-data"`参数，使之能够接受文件。
+
+呈现结果的result类使用了表格，一行当中放四张图片，然后开始下一行。如果一行图片不满，为了美观就不显示。如果发现没有结果可以显示，会以一张标志着错误的图片作为没有图片的代表。
+
+由于时间不够，后期有的数据改的比较匆忙，很多地方直接用的`<br>`换行，而没有动模板类的详细参数，这也是一个遗憾的地方。
+
+所有的模板都在template文件夹中，这里不再引用。
+
 ## 任务四 基于人脸的新闻搜索 作者：朱鑫炜
 
 ### 选择使用开源库
@@ -717,13 +899,13 @@ def indexDocs(self, root, writer):
                             img_path_list.append(os.path.join(path, file))
                 except:
                     print("ERROR IMG!")
-        
+  
         # save file
         np_title_list = np.array(title_list)
         np_face_list = np.array(face_list)
         np_img_name_list = np.array(img_name_list)
         np_img_path_list = np.array(img_path_list)
-        
+  
         if not os.path.exists(data_path):
             os.mkdir(data_path)
         np.save(os.path.join(data_path, 'title.npy'), np_title_list)
@@ -743,7 +925,6 @@ def indexDocs(self, root, writer):
         np_face_list = np.load(os.path.join(data_path, 'face.npy'))
         np_img_path_list = np.load(os.path.join(data_path, 'img_name.npy'))
         return np_title_list, np_face_list, np_img_path_list
-
   ```
 
 - 这一部分是具体的比较，方式是比对目标的特征向量和数据库中的特征向量相似度，然后返回大于阈值的结果，从中默认挑选前10名。如果没有搜到，会输出空列表
@@ -761,6 +942,85 @@ def indexDocs(self, root, writer):
         return img_list
   ```
 
-## 任务五 作者：贾涵
+## 任务五 基于人脸的新闻搜索 作者：贾涵
+
+我们获取到新闻标题以后，要将其进行聚类分析。首先我们要提取出来相应的标题文本内容，在此我们利用split分割函数将index文档中的每一条消息按照空格进行分割，取每一条的中间部分，写入新的文档index.txt之中，即可完成文本的提取，代码如下：
+
+```python
+with open('index.txt','r',encoding='utf-8')as fp:
+    texts = fp.readlines()
+fptxt = open('index1.txt','w',encoding='utf-8')
+for text in texts:
+    text = re.compile(r"'\t(.*?)\t").search(text).group(1)
+    fptxt.write(text+'\n')
+fptxt.close()
+```
+
+在提取到新闻标题以后，我们开始进行jieba分词，统计关键词，以及聚类和相关度的分析。此处用到了TF-IDF算法和K-means聚类均值算法进行分析。外置库jieba，pandas，sklearn，cmake库在此用到进行分词和聚类。
+
+```python
+def tokenize(text_list, stop):
+    texts = []
+    tokenized_texts = []
+    for text in text_list:
+        cut = [each for each in jieba.cut(text) if each not in stop and not re.match(r'\d+', each)]
+        if cut:
+            texts.append(text)
+            tokenized_texts.append(cut)
+    return texts, tokenized_texts
+
+def get_best_n_topics(n_candidates, data):
+    sse = []
+    for n in n_candidates:
+        print(f"Kmeans with {n} centers")
+        kmeans = KMeans(n_clusters=n, n_init=5)
+        kmeans.fit(X=data)
+        sse.append(kmeans.inertia_)
+    return sse
+
+def fit_kmeans(n, data):
+    kmeans = KMeans(n_clusters=n, n_init=5, random_state=10)
+    pred = kmeans.fit_transform(X=data)
+    return kmeans, pred
+
+
+def get_key_words(text_vec, vectorizer):
+    idx_to_word = {k: v for v, k in vectorizer.vocabulary_.items()}
+    key_index = np.array(np.argmax(text_vec, axis=-1)).squeeze()
+    return [idx_to_word[k] for k in key_index]
+
+if __name__ == '__main__':
+    contents = [each.strip() for each in open("./index1.txt", encoding="utf-8").readlines()]
+    stopwords = set(each.strip() for each in open("./stopwords.txt", encoding="utf-8").readlines())
+    stopwords.add(" ")
+
+    texts, tokenized_texts = tokenize(contents, stopwords)
+
+    inputs = [" ".join(each) for each in tokenized_texts]
+    vectorizer = TfidfVectorizer(max_features=1000)
+    text_vec = vectorizer.fit_transform(inputs)
+
+
+    # sse = get_best_n_topics(list(range(1, 11)), text_vec)
+    # plt.plot(sse)
+    # plt.show()
+
+    n = 7
+    kmeans, pred = fit_kmeans(7, text_vec)
+    pred_cls = np.argmin(pred, axis=-1)
+    key_words = get_key_words(text_vec, vectorizer)
+    res = pd.DataFrame({"标题": texts, "关键词": key_words, "类别": pred_cls})
+    res.to_csv("分类结果.csv", index=False)
+```
+
+生成的结果以csv的形式写出，分别为标题，标题中所包含的关键词以及所属类，从而可以在为用户推荐时做到相关新闻的推荐；
 
 # 最终效果
+
+详情见答辩PPT和演示视频
+
+# 实验总结
+
+本次实验的过程比较的曲折，但在最后的努力下，我们圆满实现了所有包括optimal的实验目标。一个遗憾在于网站的美化没有做的更好，其他的搜索结果我们认为已经很完善了。
+
+一个小的提议：因为在实验过程当中，问题出的比较多的地方就是Lucene的应用.因为pylucene在资料查找上比较复杂，而且出现问题需要阅读java语法，比较麻烦。感觉基于Lucene的Elasticsearch可能有更好的对于python的适应度。

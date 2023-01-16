@@ -1,12 +1,13 @@
 # SJTU EE208
 from pickle import FALSE
-import sys, os, lucene
-import jieba, random, time
+import os, lucene
+import jieba
 import face_recognition.api as fr
 import numpy as np
+from urllib.parse import urlparse
 from Face_Recognition import face
 from werkzeug.utils import secure_filename
-from Face_Recognition import face
+from IndexFiles import valid_filename
 from java.io import File
 from org.apache.lucene.analysis.standard import StandardAnalyzer
 from org.apache.lucene.index import DirectoryReader
@@ -237,9 +238,6 @@ def relevence_sort(keyword):
         RESULT.append(doc_dic)
     return RESULT, cnt
 
-def recommend():
-    pass
-
 @app.route('/',methods=['GET', 'POST'])
 def begin():
     pic_list = list(face.find_all_img('./static/home'))
@@ -303,30 +301,95 @@ def upload():  # put application's code here
     
 @app.route('/face_result',methods=["GET","POST"])
 def face_result():
-    target = "./upload/" + FILENAME
-    print(target)
-    
-    target_load = fr.load_image_file(target)
-    target_load = fr.face_encodings(target_load)
-    np_title_list, np_face_list, np_img_path_list = face.load_img()
-    faces = face.compare_img(target_load, np_title_list, np_face_list, np_img_path_list, 200)
-    print(faces)
+    try:
+        target = "./upload/" + FILENAME
+        print(target)
+        
+        target_load = fr.load_image_file(target)
+        target_load = fr.face_encodings(target_load)
+        np_title_list, np_face_list, np_img_path_list = face.load_img()
+        faces = face.compare_img(target_load, np_title_list, np_face_list, np_img_path_list, 200)
+        print(faces)
 
+        with open("index.txt", "r") as f:
+            lines = f.readlines()
+            for i in faces:
+                
+                for line in lines:   
+                    if (i.get('title') in line):
+                        url = line.split()[0].strip("'")
+                        i.update({"url": url})
+        totalnum = len(faces)
+        os.remove(target)
+        return render_template("Face_Rc.html", items=faces, nums=totalnum)
+    except:
+        return render_template("Face_Rc.html", items=[], nums=0)
+@app.route('/cluster',methods=["GET","POST"])
+def classify():
+    flag1 = request.form.get("冬奥")
+    flag2 = request.form.get("人物")
+    flag3 = request.form.get("北京")
+    flag4 = request.form.get("晋级")
+    flag5 = request.form.get("中国赛事")
+    flag6 = request.form.get("决赛")
+    print(flag1)
+    with open('./tfidf+kmeans/分类结果.csv','r') as f:
+        clusters = f.readlines()
+    clusters = [x.strip().split(",") for x in clusters]
+    clusters.sort(key=lambda x: x[2])
+    clusters = [x for x in clusters if len(x) == 3]
+    clusters = [x for x in clusters if x[2] != '0'][:-1]
+    if flag1:
+        select = [x for x in clusters if x[2] == '1']
+    elif flag2:
+        select = [x for x in clusters if x[2] == '2']
+    elif flag3:
+        select = [x for x in clusters if x[2] == '3']
+    elif flag4:
+        select = [x for x in clusters if x[2] == '4']
+    elif flag5:
+        select = [x for x in clusters if x[2] == '5']
+    elif flag6:
+        select = [x for x in clusters if x[2] == '6']    
+    else:
+        select = []
+    result = []
     with open("index.txt", "r") as f:
         lines = f.readlines()
-        for i in faces:
-            
+        for i in select:
             for line in lines:   
-                if (i.get('title') in line):
+                if (i[0] in line):
                     url = line.split()[0].strip("'")
-                    i.update({"url": url})
-    totalnum = len(faces)
-    os.remove(target)
-    return render_template("Face_Rc.html", items=faces, nums=totalnum)
-
-@app.route('/class',methods=["GET","POST"])
-def classify():
-    pass
+                    
+                    folder = os.path.join("./static/html",valid_filename(url))
+                    parsed_result = urlparse(url)
+                    site = parsed_result.netloc
+                    for j in range(len(site)):
+                        if site[j:j+4] == "www.":
+                            site = site[j+4:]
+                            break
+                    site = site.replace(".", " ")
+                    if ("163" in site):
+                        img_path = '../static/netease.jpg'
+                    else:
+                        img_path = '../static/chinanews.png'
+                    is_pic = False
+                    select_img = ""
+                    for path, dirs, files in os.walk(folder):
+                        for file in files:
+                            if file[-3:] == 'jpg':
+                                is_pic = True
+                                select_img = path + "/" + file
+                                break
+                    if is_pic:
+                        img_path = select_img
+                    res = {"url": url, "title":i[0], "img_path":img_path}
+                    result.append(res)
+   
+    if len(select) == 0:
+        return render_template("Cluster.html", empty = True,items=[],nums=0)
+    return render_template("Cluster.html", empty = False, items=result, nums=len(result))
+    
 if __name__ == '__main__':
     vm_env = lucene.initVM()
     app.run(debug=True, port=8080)
